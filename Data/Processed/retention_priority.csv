@@ -1,0 +1,1410 @@
+customerID,Churn_Probability,Risk_Level,Base_LTV,LTV_Segment,Retention_Priority,Recommended_Action
+4376-KFVRS,0.048153133479608146,LOW RISK,8211.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2754-SDJRD,0.8367617408889604,HIGH RISK,3762.632015848473,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+9917-KWRBE,0.19596717894362012,LOW RISK,3212.35,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+0365-GXEZS,0.602086079582993,HIGH RISK,2937.9712794742945,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9385-NXKDA,0.04950456759122512,LOW RISK,5950.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4686-UXDML,0.7444156134556512,HIGH RISK,3751.361026285272,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2227-JRSJX,0.6371929741726343,HIGH RISK,3725.062050637805,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4830-FAXFM,0.18970089317205982,LOW RISK,905.4361615771164,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1830-IPXVJ,0.015333630773167406,LOW RISK,1204.75,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4690-LLKUA,0.6318845896330394,HIGH RISK,1692.526932740626,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5804-HYIEZ,0.4521733778932349,MEDIUM RISK,7423.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2388-LAESQ,0.05670891528304168,LOW RISK,8269.199999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5533-RJFTJ,0.4224792344365678,MEDIUM RISK,1479.8,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4706-AXVKM,0.7897380210098239,HIGH RISK,3185.933049864708,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0997-YTLNY,0.37975764828437647,MEDIUM RISK,1833.4143022806336,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7971-HLVXI,0.22392379505667112,LOW RISK,6084.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7337-CINUD,0.05095989699840192,LOW RISK,732.6143216080402,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1379-FRVEB,0.79301889009119,HIGH RISK,3418.866834170854,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4753-PADAS,0.3942055754482767,MEDIUM RISK,7081.900000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5701-GUXDC,0.17786900147938808,LOW RISK,1329.976768457673,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7235-NXZCP,0.8713825614022539,HIGH RISK,2812.111896018554,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0668-OGMHD,0.5151674569605647,MEDIUM RISK,1070.744008504059,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2812-REYAT,0.0591698040825194,LOW RISK,982.45,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8779-YIQQA,0.029578444339061108,LOW RISK,743.8853111712408,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9701-CDXHR,0.5129372017284917,MEDIUM RISK,3526.65,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7130-CTCUS,0.40209256945769895,MEDIUM RISK,2049.441602241979,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1894-IGFSG,0.7341752913044194,HIGH RISK,3353.119395052184,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0871-URUWO,0.7665939604463438,HIGH RISK,3841.528942790877,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0057-QBUQH,0.05892543013163504,LOW RISK,1079.3,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9611-CTWIH,0.8812388859777943,HIGH RISK,3360.633388094317,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8058-DMYRU,0.688992683118042,HIGH RISK,4862.7,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+5351-QESIO,0.6289889676432322,HIGH RISK,909.1931580981832,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4302-ZYFEL,0.022877640313000068,LOW RISK,1417.95,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6134-KWTBV,0.027490488174001078,LOW RISK,1450.8,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2034-GDRCN,0.8873301681222716,HIGH RISK,3396.324855044453,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9544-PYPSJ,0.465991152284951,MEDIUM RISK,5958.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4208-UFFGW,0.7306081150547363,HIGH RISK,1688.7699362195594,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9537-JALFH,0.010884181172942093,LOW RISK,1373.1,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4415-IJZTP,0.9063244027420145,HIGH RISK,2798.96240819482,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4701-MLJPN,0.2931913551390347,LOW RISK,2075.740577889447,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+7515-LODFU,0.0272667042170198,LOW RISK,1400.7,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4927-WWOOZ,0.8909457252981997,HIGH RISK,3435.773318515656,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4067-HLYQI,0.6304321240152072,HIGH RISK,2644.9255508310785,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6184-DYUOB,0.33078624373872784,MEDIUM RISK,736.3713181291071,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9209-NWPGU,0.18223465315019355,LOW RISK,2877.6000000000004,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9851-KIELU,0.6962162698112748,HIGH RISK,4136.453169694627,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3199-XGZCY,0.861383694778999,HIGH RISK,2827.139882102821,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4226-KKDON,0.4206142583046719,MEDIUM RISK,2504.038181291071,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1085-LDWAM,0.03645079703676873,LOW RISK,1404.15,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6825-UYPFK,0.583659458059903,MEDIUM RISK,2840.2893699265555,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1767-CJKBA,0.03381619180979095,LOW RISK,1656.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7181-BQYBV,0.8440027264958175,HIGH RISK,3849.042935833011,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0178-CIIKR,0.2957741587767157,LOW RISK,749.5208059528411,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4256-ZWTZI,0.5226087278644826,MEDIUM RISK,1916.068225744105,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9537-VHDTA,0.562986047028866,MEDIUM RISK,1923.5822187862389,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2754-XBHTB,0.8101168834801074,HIGH RISK,2917.3077986084268,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5975-BAICR,0.20068846338655136,LOW RISK,2393.206783919598,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3301-VKTGC,0.1713744138304683,LOW RISK,5814.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2877-VDUER,0.20204809896293097,LOW RISK,1536.6115771163509,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7717-BICXI,0.015615384062539926,LOW RISK,1233.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0562-FGDCR,0.039877835647908304,LOW RISK,5367.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3705-PSNGL,0.03900677263107379,LOW RISK,918.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0048-LUMLS,0.35137590183491874,MEDIUM RISK,3426.380827212988,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6497-TILVL,0.4212158240058782,MEDIUM RISK,1904.7972361809043,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2108-YKQTY,0.5999027343095897,MEDIUM RISK,1904.7972361809043,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3658-KIBGF,0.6910795918495799,HIGH RISK,2062.591090065713,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5482-NUPNA,0.4217754417608078,MEDIUM RISK,2269.225898724391,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7410-KTVFV,0.43369987325713133,MEDIUM RISK,1861.5917761886355,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9033-EOXWV,0.30457076994718923,MEDIUM RISK,2782.055923850019,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8821-XNHVZ,0.8603229023587571,HIGH RISK,3007.475715114032,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8224-KDLKN,0.00755315378720892,LOW RISK,1800.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4825-FUREZ,0.0212712143901351,LOW RISK,850.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7534-BFESC,0.7485401138555114,HIGH RISK,2859.07435253189,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9138-EFSMO,0.3237197729460549,MEDIUM RISK,2966.148753382296,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4227-OJHAL,0.14324806647120927,LOW RISK,4964.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7279-NMVJC,0.11736295836792564,LOW RISK,747.6423076923076,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8591-TKMZH,0.19092429150935797,LOW RISK,6554.9,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9283-LZQOH,0.7003357455394594,HIGH RISK,2795.2054116737536,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3594-IVHJZ,0.2550313937271851,LOW RISK,768.3057885581754,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1945-XISKS,0.01971274330776152,LOW RISK,1316.55,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4359-INNWN,0.04370433866713478,LOW RISK,753.277802473908,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7649-SIJJF,0.025780820209064595,LOW RISK,5687.099999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9254-RBFON,0.4013999584630586,MEDIUM RISK,3704.398569771936,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0970-ETWGE,0.9007848901640956,HIGH RISK,3364.3903846153844,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7762-ONLJY,0.1014464375984127,LOW RISK,740.1283146501739,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6710-HSJRD,0.572715836899588,MEDIUM RISK,6960.099999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8873-GLDMH,0.8508289642164069,HIGH RISK,2774.5419308078854,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9907-SWKKF,0.7561244672080066,HIGH RISK,941.1276285272515,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4658-HCOHW,0.6611035522737346,HIGH RISK,3862.192423656745,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+9330-VOFSZ,0.21143035631637663,LOW RISK,6648.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2860-RANUS,0.7071269728588407,HIGH RISK,3223.5030150753764,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6234-PFPXL,0.5146530541010164,MEDIUM RISK,3602.959663703131,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7205-BAIAD,0.015289601220271194,LOW RISK,824.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3858-VOBET,0.7455152469727399,HIGH RISK,2815.8688925396214,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5103-MHMHY,0.7150498028358787,HIGH RISK,1726.339901430228,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6119-SPUDB,0.04660756082323912,LOW RISK,1759.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9389-ACWBI,0.7108934802750029,HIGH RISK,2628.0190664862776,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3454-JFUBC,0.03311046960784724,LOW RISK,1360.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1768-ZAIFU,0.8443230446613614,HIGH RISK,946.7631233088518,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7017-VFULY,0.3364925528708613,MEDIUM RISK,755.1563007344415,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9221-OTIVJ,0.8237575282365722,HIGH RISK,3939.210852338616,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2482-CZGBB,0.8169488088978898,HIGH RISK,2629.897564746811,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7018-WBJNK,0.7055055715207291,HIGH RISK,2941.7282759953614,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3331-HQDTW,0.5105003848513807,MEDIUM RISK,4125.182180131426,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4695-VADHF,0.48721309687308617,MEDIUM RISK,2158.3945013529183,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4086-WITJG,0.00834834831142795,LOW RISK,1398.7,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6297-NOOPG,0.21803015225715952,LOW RISK,7735.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8777-PVYGU,0.1282559972109534,LOW RISK,3343.6,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+4378-MYPGO,0.18268007523919294,LOW RISK,7157.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9313-CDOGY,0.11918919094938157,LOW RISK,744.8000000000001,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4121-AGSIN,0.04107238711117569,LOW RISK,1421.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0432-CAJZV,0.8145236262901052,HIGH RISK,3407.595844607654,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9097-ZUBYC,0.4414118322514627,MEDIUM RISK,1833.4143022806336,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9638-JIQYA,0.7358422114538594,HIGH RISK,935.4921337456512,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1024-GUALD,0.8109363996600355,HIGH RISK,931.7351372245844,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8024-XNAFQ,0.07976743109433346,LOW RISK,7732.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7587-RZNME,0.7707829434737955,HIGH RISK,1626.7794936219557,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1346-UFHAX,0.6540772299229163,HIGH RISK,3005.597216853498,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6374-NTQLP,0.18489529749833988,LOW RISK,7495.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6625-FLENO,0.025231620766863205,LOW RISK,1203.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7375-WMVMT,0.14346559854505916,LOW RISK,6780.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6910-HADCM,0.8566324692518785,HIGH RISK,2868.466843834557,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7401-JIXNM,0.040933744955331856,LOW RISK,4930.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7338-ERIVA,0.08302370950267406,LOW RISK,1756.9499999999998,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5376-DEQCP,0.8930307040374479,HIGH RISK,2652.439543873212,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0909-SELIE,0.04239779228582037,LOW RISK,4928.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5419-KLXBN,0.6278307505536279,HIGH RISK,3349.3623985311174,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0365-TRTPY,0.45008808372055426,MEDIUM RISK,3426.380827212988,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6712-OAWRH,0.7596185822275732,HIGH RISK,3428.259325473521,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2428-ZMCTB,0.23724226412149765,LOW RISK,742.0068129107074,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1963-VAUKV,0.5438926107505508,MEDIUM RISK,766.427290297642,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9381-NDKME,0.5043732680429349,MEDIUM RISK,1527.2190858136837,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3729-OWRVL,0.3995857616281468,MEDIUM RISK,7172.75,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0895-LMRSF,0.3593504787257157,MEDIUM RISK,2438.2907421724008,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2676-SSLTO,0.09730942216310395,LOW RISK,3241.3500000000004,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8495-PRWFH,0.4131875853059215,MEDIUM RISK,2337.3,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9030-QGZNL,0.034588213387649926,LOW RISK,783.333774642443,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9972-NKTFD,0.25617923322524705,LOW RISK,2053.198598763046,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+7998-WNZEM,0.030083561962534824,LOW RISK,5722.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0979-PHULV,0.5569537892152895,MEDIUM RISK,6862.05,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6445-TNRXS,0.12650760426466798,LOW RISK,7799.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9586-JGQKH,0.21998560085570662,LOW RISK,6745.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3966-HRMZA,0.7848212496283952,HIGH RISK,2819.625889060688,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5498-IBWPI,0.19825729328715666,LOW RISK,3260.4,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6823-SIDFQ,0.021067497962400927,LOW RISK,685.6518650947042,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2323-ARSVR,0.1581367812674922,LOW RISK,7440.349999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5468-BPMMO,0.17287248812926026,LOW RISK,901.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0486-HECZI,0.5391921012117643,MEDIUM RISK,5321.25,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2178-PMGCJ,0.6584213326463028,HIGH RISK,2618.6265751836104,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4660-IRIBM,0.6477472928106299,HIGH RISK,3302.399942017781,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9674-EHPPG,0.06107434566234167,LOW RISK,1858.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5606-AMZBO,0.7077988709590264,HIGH RISK,2936.092781213761,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0665-XHDJU,0.3319172510123832,MEDIUM RISK,7156.8,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5402-HTOTQ,0.47054321927511483,MEDIUM RISK,2077.6190761499806,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8258-GSTJK,0.887246922519035,HIGH RISK,2892.887321221492,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3787-TRIAL,0.5527194508973016,MEDIUM RISK,978.6975937379204,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6175-IRFIT,0.7880553652396253,HIGH RISK,2958.6347603401623,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6317-YPKDH,0.6234893534280991,HIGH RISK,1125.2204580595285,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5692-FPTAH,0.7464634825505323,HIGH RISK,1705.67642056436,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5373-SFODM,0.6517198794497223,HIGH RISK,3202.839534209509,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0868-VJRDR,0.20100299935001684,LOW RISK,6659.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4079-VTGLK,0.2679948624308938,LOW RISK,2812.111896018554,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1166-PQLGG,0.01802121221006042,LOW RISK,1407.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5296-BFCYD,0.016403486911919632,LOW RISK,924.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6568-POCUI,0.19284911693127033,LOW RISK,4284.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2839-RFSQE,0.2596967084652597,LOW RISK,775.8197816003092,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2188-SXWVT,0.10919888243103898,LOW RISK,2066.34808658678,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8849-GYOKR,0.34657488697579725,MEDIUM RISK,5753.7,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3623-FQBOX,0.21981420447648148,LOW RISK,749.5208059528411,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2649-HWLYB,0.10191476097023662,LOW RISK,4949.75,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0599-XNYDO,0.6636555780823443,HIGH RISK,2622.383571704677,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2514-GINMM,0.9009972061138335,HIGH RISK,2986.812234248164,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8401-EMUWF,0.2430929511091505,LOW RISK,2914.8,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5766-ZJYBB,0.5329776783001512,MEDIUM RISK,728.8573250869732,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2604-IJPDU,0.6555874509650007,HIGH RISK,3627.3801410900655,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2501-XWWTZ,0.7330369898912624,HIGH RISK,2637.4115577889447,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6370-ZVHDV,0.01985716015574522,LOW RISK,1543.3,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3027-YNWZU,0.028193278293931943,LOW RISK,1600.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4526-ZJJTM,0.5940943630860304,MEDIUM RISK,3321.184924623116,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0440-QEXBZ,0.39110455299067537,MEDIUM RISK,2206.6,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0330-IVZHA,0.7874294845264538,HIGH RISK,2628.0190664862776,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9758-MFWGD,0.3539274143434332,MEDIUM RISK,1435.1999999999998,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4229-CZMLL,0.8716674251495735,HIGH RISK,2813.990394279088,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0742-MOABM,0.53955117133334,MEDIUM RISK,1880.3767587939697,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4277-BWBML,0.012283878173507665,LOW RISK,1436.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5136-GFPMB,0.5406605547208876,MEDIUM RISK,4827.6,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7520-HQWJU,0.22704261163256004,LOW RISK,4451.7,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6304-IJFSQ,0.6868819727828585,HIGH RISK,1874.7412640123691,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0297-RBCSG,0.36551849670283976,MEDIUM RISK,2455.197226517201,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6013-BHCAW,0.08280155157821181,LOW RISK,4941.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4402-FTBXC,0.42246395306292,MEDIUM RISK,4849.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1471-GIQKQ,0.6639234128503834,HIGH RISK,1876.619762272903,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4283-FUTGF,0.7586608846521596,HIGH RISK,2999.961722071898,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9548-LERKT,0.01774347026883528,LOW RISK,742.0068129107074,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8059-UDZFY,0.6773482922904267,HIGH RISK,3957.9958349439503,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0410-IPFTY,0.6361749540775328,HIGH RISK,3150.2415829145725,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2478-EEWWM,0.6024914293406823,HIGH RISK,2613.7,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4619-EVPHY,0.4546664732076657,MEDIUM RISK,3418.866834170854,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2277-DJJDL,0.6507830264601766,HIGH RISK,5940.0,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2911-WDXMV,0.5987953196550945,MEDIUM RISK,3026.260697719366,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3639-XJHKQ,0.3970920100547112,MEDIUM RISK,2276.739891766525,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8173-RXAYP,0.016880833707133207,LOW RISK,740.1283146501739,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4537-CIBHB,0.07145857648479179,LOW RISK,760.7917955160417,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5442-BXVND,0.17090637356374855,LOW RISK,911.0716563587166,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2308-STERM,0.284570640408597,LOW RISK,728.8573250869732,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7159-NOKYQ,0.2616940088286082,LOW RISK,6241.05,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6075-QMNRR,0.2803922110846017,LOW RISK,2587.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3694-GLTJM,0.2517475082787567,LOW RISK,738.2498163896404,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9629-NHXFW,0.6342961241475586,HIGH RISK,728.8573250869732,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7167-PCEYD,0.05005752646443095,LOW RISK,1326.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2748-MYRVK,0.3385740466477203,MEDIUM RISK,6293.700000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4223-WOZCM,0.7306924322169851,HIGH RISK,1876.619762272903,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6946-LMSQS,0.40127246029579317,MEDIUM RISK,3345.60540201005,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5469-NUJUR,0.02935005451887197,LOW RISK,749.5208059528411,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6388-TABGU,0.10997790819659663,LOW RISK,3481.3,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1261-FWTTE,0.5669444707643921,MEDIUM RISK,1301.7992945496712,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8590-YFFQO,0.06522845895119285,LOW RISK,4546.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0082-OQIQY,0.6867110733200851,HIGH RISK,3539.090722844994,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+9465-RWMXL,0.7282939658092757,HIGH RISK,2964.2702551217626,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2930-UOTMB,0.23186230304130162,LOW RISK,2451.4402299961343,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9128-CPXKI,0.3525372327766719,MEDIUM RISK,5652.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0484-FFVBJ,0.3340696493226667,MEDIUM RISK,2436.412243911867,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1100-DDVRV,0.55424326247396,MEDIUM RISK,1870.9842674913025,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9313-QOLTZ,0.1652068101007924,LOW RISK,785.2122729029763,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3338-CVVEH,0.8153102029483098,HIGH RISK,3552.240210668728,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1131-SUEKT,0.3458187248574003,MEDIUM RISK,6005.45,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7602-DBTOU,0.01437286882605918,LOW RISK,1391.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1385-TQOZW,0.20816009734104207,LOW RISK,768.3057885581754,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6892-XPFPU,0.7999200805316548,HIGH RISK,3916.668873212215,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4115-NZRKS,0.8738589227378067,HIGH RISK,3349.3623985311174,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5514-YQENT,0.2103123228468485,LOW RISK,4557.150000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6319-IEJWJ,0.767051733923741,HIGH RISK,3388.8108620023195,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8849-AYPTR,0.6769627328897387,HIGH RISK,3428.259325473521,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5893-PYOLZ,0.06461560294690413,LOW RISK,4580.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7180-PISOG,0.8819775752929531,HIGH RISK,2798.96240819482,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8443-ZRDBZ,0.8793920112792385,HIGH RISK,2857.1958542713564,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9079-YEXQJ,0.5496358112364674,MEDIUM RISK,5999.4,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3780-YVMFA,0.6052521445367436,HIGH RISK,2575.421115191341,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6968-MHOMU,0.3446044011262908,MEDIUM RISK,2610.0,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0899-LIIBW,0.7083191079560152,HIGH RISK,3788.930991495941,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3677-IYRBF,0.8171098876120092,HIGH RISK,1142.1269424043292,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8393-DLHGA,0.7501561140497576,HIGH RISK,3602.959663703131,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+7691-XVTZH,0.2264243855864777,LOW RISK,6116.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5360-LJCNJ,0.3473785774541952,MEDIUM RISK,7465.650000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3891-PUQOD,0.7090798089527608,HIGH RISK,2224.141940471589,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0952-KMEEH,0.7115835268392675,HIGH RISK,3687.492085427136,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4919-IKATY,0.7102990948853696,HIGH RISK,3174.662060301508,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9746-UGFAC,0.14103133938018927,LOW RISK,783.333774642443,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9108-EQPNQ,0.06359683494392585,LOW RISK,980.576091998454,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0531-ZZJWQ,0.6784276047363736,HIGH RISK,4070.0,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8763-KIAFH,0.07588511357279543,LOW RISK,772.0627850792424,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5863-OOKCL,0.2228777687898949,LOW RISK,708.1938442211056,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2958-NHPPS,0.1360401602319045,LOW RISK,783.333774642443,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9530-GRMJG,0.0952220426480468,LOW RISK,5887.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1809-DMJHQ,0.6167482301948346,HIGH RISK,1728.2183996907615,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0164-XAIRP,0.035986959401438166,LOW RISK,734.4928198685736,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2926-JEJJC,0.10892751658833447,LOW RISK,758.9132972555083,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1169-WCVAK,0.4562731871144159,MEDIUM RISK,3336.212910707383,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1217-VASWC,0.45941477757291643,MEDIUM RISK,4323.65,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2452-KDRRH,0.6272653231092268,HIGH RISK,6793.8,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6402-EJMWF,0.6829337450651427,HIGH RISK,2077.6190761499806,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7663-CUXZB,0.24617640445090014,LOW RISK,6711.25,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4312-KFRXN,0.018178808988757577,LOW RISK,1828.8,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3011-WQKSZ,0.38184699036642067,MEDIUM RISK,751.3993042133745,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9747-DDZOS,0.8315887845028692,HIGH RISK,2761.392442984152,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2091-MJTFX,0.28401494465455357,LOW RISK,1923.5822187862389,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0388-EOPEX,0.7470393829260915,HIGH RISK,2795.2054116737536,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3161-ONRWK,0.09201890240877138,LOW RISK,3951.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2587-EKXTS,0.5357605689124318,MEDIUM RISK,4906.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9752-ZNQUT,0.6807457962826898,HIGH RISK,1825.9003092385,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9572-WUKSB,0.6690637797450846,HIGH RISK,1123.3419597989948,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3836-FZSDJ,0.014667020264965764,LOW RISK,1764.35,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8805-JNRAZ,0.6545809719876646,HIGH RISK,1848.4422883649013,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3069-SSVSN,0.5266535768882322,MEDIUM RISK,971.1836006957866,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8015-IHCGW,0.06930969709577356,LOW RISK,8316.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8132-YPVBX,0.8107610619791745,HIGH RISK,3229.138509856977,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0235-KGSLC,0.8185253325752587,HIGH RISK,3214.1105237727093,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1302-UHBDD,0.7294422781355852,HIGH RISK,3379.418370699652,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3722-WPXTK,0.9018314017920026,HIGH RISK,3319.306426362582,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7531-GQHME,0.24246060180502282,LOW RISK,753.277802473908,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1335-NTIUC,0.7371369110837679,HIGH RISK,937.3706320061848,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9367-TCUYN,0.24622041395510638,LOW RISK,755.1563007344415,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1536-HBSWP,0.7175500851497334,HIGH RISK,1874.7412640123691,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8573-JGCZW,0.05715671862558451,LOW RISK,738.2498163896404,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2694-CIUMO,0.7103133736097924,HIGH RISK,2988.690732508697,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2027-FECZV,0.8300086498903547,HIGH RISK,4008.7152879783534,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+9103-TCIHJ,0.4434789552337939,MEDIUM RISK,2092.647062234248,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1545-JFUML,0.15277386999778522,LOW RISK,7029.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0524-IAVZO,0.7462284776426256,HIGH RISK,3193.447042906842,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5519-TEEUH,0.033164909218537646,LOW RISK,757.0347989949748,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6654-QGBZZ,0.564979214015884,MEDIUM RISK,747.6423076923076,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2294-DMMUS,0.3592342176048286,MEDIUM RISK,4367.900000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0017-IUDMW,0.04490896879146982,LOW RISK,8409.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5018-LXQQG,0.20964096543983024,LOW RISK,2490.8886934673365,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5808-TOTXO,0.12104790615901288,LOW RISK,772.0627850792424,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1174-FGIFN,0.485349974575855,MEDIUM RISK,3398.203353304986,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0730-KOAVE,0.6107167022427391,HIGH RISK,3542.847719366061,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1218-VKFPE,0.1798858787421716,LOW RISK,713.8293390027059,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5313-FPXWG,0.0757992071325428,LOW RISK,1254.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2834-JKOOW,0.1649619281123638,LOW RISK,1724.4614031696944,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9430-NKQLY,0.024022192738770678,LOW RISK,1807.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0363-QJVFX,0.49450049285481634,MEDIUM RISK,4063.191737533823,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1658-TJVOA,0.7459998356373425,HIGH RISK,2783.9344221105525,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6685-GBWJZ,0.13768885688867877,LOW RISK,4460.4,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6328-ZPBGN,0.8596431526334374,HIGH RISK,3574.7821897951294,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4003-FUSHP,0.4012108648098681,MEDIUM RISK,2312.43135871666,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7690-KPNCU,0.22344263167949954,LOW RISK,4675.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2969-WGHQO,0.24511616991190505,LOW RISK,2609.234083880943,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1855-CFULU,0.2987034116523264,LOW RISK,753.277802473908,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9788-YTFGE,0.22728067351178372,LOW RISK,749.5208059528411,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8266-VBFQL,0.8122580157694536,HIGH RISK,3396.324855044453,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2325-NBPZG,0.7573456963491344,HIGH RISK,2800.840906455353,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9906-NHHVC,0.24518864494706016,LOW RISK,3477.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2541-YGPKE,0.1907888850007022,LOW RISK,2675.4,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5049-MUBWG,0.17737743328787922,LOW RISK,2817.7473908001543,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2332-TODQS,0.07905119515148176,LOW RISK,1202.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4419-UJMUS,0.25695763991562715,LOW RISK,6855.15,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2233-TXSIU,0.21823586112999785,LOW RISK,1669.984953614225,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6770-XUAGN,0.5544287985431109,MEDIUM RISK,788.9692694240432,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2919-HBCJO,0.8076252438577803,HIGH RISK,2879.737833397758,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9508-ILZDG,0.6839047759312753,HIGH RISK,3619.866148047932,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+5442-BHQNG,0.8371036256616258,HIGH RISK,2643.047052570545,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7250-EQKIY,0.7154358724306242,HIGH RISK,1895.4047448782371,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6838-HVLXG,0.2337196593363398,LOW RISK,762.6702937765751,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9767-FFLEM,0.5958837057499948,MEDIUM RISK,2641.0,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2245-ADZFJ,0.07827865506746408,LOW RISK,3026.260697719366,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1150-WFARN,0.2193012243394258,LOW RISK,7286.25,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9054-FOWNV,0.7866230516050078,HIGH RISK,3334.334412446849,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7997-EASSD,0.2191235438570485,LOW RISK,5115.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7560-QJAVJ,0.054735671716604116,LOW RISK,5572.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2668-TZSPS,0.5430159485785557,MEDIUM RISK,768.3057885581754,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9139-WQQDY,0.4013231827422967,MEDIUM RISK,4922.05,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6726-NNFWD,0.1491002923638117,LOW RISK,6350.95,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9330-DHBFL,0.151225529425527,LOW RISK,2489.010195206803,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5727-MYATE,0.01651253550353065,LOW RISK,6537.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2824-DXNKN,0.04904627940842239,LOW RISK,5144.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6166-ILMNY,0.8174818659907683,HIGH RISK,2620.505073444144,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5236-XMZJY,0.295160109789349,LOW RISK,2505.3,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1709-EJDOX,0.01666465028137635,LOW RISK,928.25,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4962-CHQPW,0.027074197269268976,LOW RISK,745.7638094317742,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0301-FIDRB,0.017248651235043447,LOW RISK,4593.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1820-TQVEV,0.8963930242238327,HIGH RISK,2612.9910804020096,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9115-YQHGA,0.3292574144376709,MEDIUM RISK,2044.0,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1541-ETJZO,0.5097025451231243,MEDIUM RISK,2331.2163413219946,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6230-BSUXY,0.8887138204105824,HIGH RISK,3193.447042906842,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6797-LNAQX,0.20395361069877196,LOW RISK,6881.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9588-YRFHY,0.03216368553422968,LOW RISK,975.1,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1092-GANHU,0.7077863734524051,HIGH RISK,2879.737833397758,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5951-AOFIH,0.38304862747643253,MEDIUM RISK,2494.645689988404,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7029-RPUAV,0.7353973403116896,HIGH RISK,3773.903005411674,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4700-UBQMV,0.2213112960960719,LOW RISK,2851.5603594897566,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3594-UVONA,0.23798081047131606,LOW RISK,3229.138509856977,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+7750-EYXWZ,0.27827707373084604,LOW RISK,2278.618390027058,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+7054-ENNGU,0.4354081795208582,MEDIUM RISK,1910.4327309625048,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0402-OAMEN,0.010586295182381116,LOW RISK,1760.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2195-VVRJF,0.41256014951234143,MEDIUM RISK,2220.384943950522,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8819-ZBYNA,0.28021707119127065,LOW RISK,6327.799999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7748-UMTRK,0.7460724136940606,HIGH RISK,3805.8374758407417,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1741-WTPON,0.21172107212913602,LOW RISK,6487.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7209-JCUDS,0.8542596086499543,HIGH RISK,3565.3896984924622,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2485-ITVKB,0.82115329756746,HIGH RISK,1318.7057788944724,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9648-BCHKM,0.08646909194431095,LOW RISK,926.099642442984,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0743-HRVFF,0.2544043767193953,LOW RISK,2863.65,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2522-AHJXR,0.44888428606750275,MEDIUM RISK,6567.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9143-CANJF,0.3464582450271856,MEDIUM RISK,2071.9835813683803,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1444-VVSGW,0.336225660025331,MEDIUM RISK,8095.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6898-MDLZW,0.4467743169115761,MEDIUM RISK,2019.385630073444,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0074-HDKDG,0.14982712144791616,LOW RISK,2314.3098569771937,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3982-JGSFD,0.022678741549168015,LOW RISK,764.5487920371087,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7928-VJYAB,0.7728633668485564,HIGH RISK,3403.8388480865865,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1522-VVDMG,0.773481937957143,HIGH RISK,3371.904377657518,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2665-NPTGL,0.7255976880236977,HIGH RISK,3685.613587166602,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8728-SKJLR,0.5997435916199508,MEDIUM RISK,3044.25,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7733-UDMTP,0.5937906946816538,MEDIUM RISK,3135.0,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0431-APWVY,0.4565980653430728,MEDIUM RISK,3385.053865481252,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5081-NWSUP,0.2894436265688654,LOW RISK,2438.2907421724008,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2746-DIJLO,0.23357585488054414,LOW RISK,2308.3,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+7277-OZCGZ,0.6283220632034616,HIGH RISK,3345.60540201005,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5236-PERKL,0.32267859631061035,MEDIUM RISK,6438.150000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2788-CJQAQ,0.02642648470642874,LOW RISK,730.7358233475067,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3096-WPXBT,0.3190434774843472,MEDIUM RISK,6142.7,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9962-BFPDU,0.6242170229091303,HIGH RISK,753.277802473908,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2892-GESUL,0.025523628249127482,LOW RISK,726.9788268264399,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9741-YLNTD,0.8023225119400544,HIGH RISK,3304.2784402783145,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1205-WNWPJ,0.523735833128727,MEDIUM RISK,2235.412930034789,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3173-NVMPX,0.44690488323355454,MEDIUM RISK,2077.6190761499806,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9661-MHUMO,0.5597588357639531,MEDIUM RISK,1850.3207866254347,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6000-APYLU,0.8344742244059435,HIGH RISK,3035.653189022033,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0048-PIHNL,0.0840904751488839,LOW RISK,1002.05,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9420-LOJKX,0.752690379880504,HIGH RISK,3723.183552377271,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+7061-OVMIM,0.08749478970151707,LOW RISK,734.4928198685736,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5671-RQRLP,0.17270264705662616,LOW RISK,5295.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5129-JLPIS,0.6464433325908985,HIGH RISK,3963.631329725551,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+5170-PTRKA,0.1036057686732422,LOW RISK,1754.1999999999998,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4819-HJPIW,0.4718774472772025,MEDIUM RISK,944.8846250483184,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8780-RSYYU,0.17289415675664419,LOW RISK,721.3433320448395,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2335-GSODA,0.06652557982586692,LOW RISK,1506.555604947816,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5696-CEIQJ,0.1720077498887748,LOW RISK,6911.05,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6169-PPETC,0.018706887936330206,LOW RISK,770.1842868187089,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4237-RLAQD,0.7527368583223546,HIGH RISK,1722.5829049091612,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7359-WWYJV,0.06299936977705906,LOW RISK,8240.4,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8620-RJPZN,0.49491621361159105,MEDIUM RISK,777.6982798608426,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7426-WEIJX,0.449442840583372,MEDIUM RISK,4857.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7629-WIXZF,0.37985322505624713,MEDIUM RISK,2220.384943950522,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2616-FLVQC,0.06529449658220787,LOW RISK,1251.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9163-GHAYE,0.44637192713800267,MEDIUM RISK,1835.2928005411677,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4464-JCOLN,0.0639994025161336,LOW RISK,745.7638094317742,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2971-SGAFL,0.5511316437001358,MEDIUM RISK,2958.6347603401623,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4735-ASGMA,0.8020800840931892,HIGH RISK,3695.006078469269,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+5245-VDBUR,0.13323567215327298,LOW RISK,1843.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1493-AMTIE,0.5031191830696726,MEDIUM RISK,758.9132972555083,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1112-CUNAO,0.7084669071086341,HIGH RISK,3375.661374178585,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7571-YXDAD,0.8300477616720605,HIGH RISK,2813.990394279088,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8714-EUHJO,0.6545304713585784,HIGH RISK,3424.5023289524547,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9040-KZVWO,0.24497393563667802,LOW RISK,2836.5323734054887,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6713-OKOMC,0.45096332180805865,MEDIUM RISK,1117.7064650173943,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8749-CLJXC,0.6069882343214115,HIGH RISK,753.277802473908,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4713-LZDRV,0.8749978779799221,HIGH RISK,2990.56923076923,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6598-RFFVI,0.09423845374707039,LOW RISK,725.1003285659065,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7470-MCQTK,0.5477403406266255,MEDIUM RISK,1831.5358040201004,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5524-KHNJP,0.224632858820886,LOW RISK,2808.354899497487,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1707-HABPF,0.28097246493630035,LOW RISK,4199.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4581-LNWUM,0.6575914714392048,HIGH RISK,1846.563790104368,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9710-ZUSHQ,0.5444177432676957,MEDIUM RISK,4010.5937862388864,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1697-LYYYX,0.044003558848452924,LOW RISK,1165.1,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4013-GUXND,0.5642916900809785,MEDIUM RISK,781.4552763819096,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5022-JNQEQ,0.759390976209976,HIGH RISK,2849.6818612292227,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4983-CCWMC,0.8131521707905999,HIGH RISK,2614.869578662543,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6345-FZOQH,0.019186905747935204,LOW RISK,1373.1,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0962-CQPWQ,0.012556802227401355,LOW RISK,1258.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5495-GPSRW,0.03029363108193094,LOW RISK,740.1283146501739,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2252-JHJGE,0.40169130106928586,MEDIUM RISK,6344.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7356-AYNJP,0.07969354754058,LOW RISK,897.9221685349825,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2019-HDCZY,0.29732524274579136,LOW RISK,6463.799999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8582-KRHPJ,0.34866771904151095,MEDIUM RISK,1750.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2867-UIMSS,0.8748684719331302,HIGH RISK,3024.3821994588325,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3487-EARAT,0.2242737946254754,LOW RISK,5187.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9926-PJHDQ,0.19314105813037574,LOW RISK,5529.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0289-IVARM,0.319751107902277,MEDIUM RISK,2274.861393505991,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4672-FOTSD,0.44038324644356536,MEDIUM RISK,2526.580160417472,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6198-PNNSZ,0.335383868542161,MEDIUM RISK,6148.8,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7603-USHJS,0.7065549014896265,HIGH RISK,2770.7849342868185,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6784-XYJAE,0.19980470430962477,LOW RISK,2096.404058755315,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3858-XHYJO,0.32141027118601284,MEDIUM RISK,4230.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1087-UDSIH,0.31602724655734726,MEDIUM RISK,736.3713181291071,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7251-LJBQN,0.4437218717624147,MEDIUM RISK,4150.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3200-MNQTF,0.07592946383791971,LOW RISK,4750.3,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9359-UGBTK,0.15366716544507936,LOW RISK,4847.45,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8160-HOWOX,0.6557457664135734,HIGH RISK,2511.552174333204,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0258-NOKBL,0.7567785282733537,HIGH RISK,3396.324855044453,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2800-QQUSO,0.7326850003588052,HIGH RISK,4212.599999999999,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2129-ALKBS,0.13346653166612865,LOW RISK,1048.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9972-VAFJJ,0.3513654122518173,MEDIUM RISK,4982.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4693-VWVBO,0.38161095719527616,MEDIUM RISK,734.4928198685736,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6969-MVBAI,0.869667749280784,HIGH RISK,3385.053865481252,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4821-WQOYN,0.020549187320027702,LOW RISK,1447.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6769-DYBQN,0.6016697252513785,HIGH RISK,3910.0,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4018-PPNDW,0.04492925923564612,LOW RISK,1470.1,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6288-CHQJB,0.07842677828047404,LOW RISK,3777.3,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4905-JEFDW,0.4618724354172254,MEDIUM RISK,1562.9105527638192,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0559-CKHUS,0.05118611885425673,LOW RISK,734.4928198685736,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2659-VXMWZ,0.33288687320476024,MEDIUM RISK,7457.099999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6559-RAKOZ,0.4989932175654107,MEDIUM RISK,4799.55,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8809-XKHMD,0.11756509887734802,LOW RISK,7239.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6365-HITVU,0.014832988810467889,LOW RISK,6194.75,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0134-XWXCE,0.20820039125600467,LOW RISK,3293.4,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9720-JJJOR,0.15158735206201407,LOW RISK,2472.3,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2782-LFZVW,0.5543688188938962,MEDIUM RISK,2214.7494491689217,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6112-KTHFQ,0.2370370853552451,LOW RISK,725.1003285659065,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9220-ZNKJI,0.15090518242606962,LOW RISK,4884.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9820-RMCQV,0.426445206648139,MEDIUM RISK,1824.0218109779669,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9013-AQORL,0.41746902100183986,MEDIUM RISK,2186.4,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2040-OBMLJ,0.25171906137157074,LOW RISK,3069.466157711635,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5574-NXZIU,0.2602721892082133,LOW RISK,6879.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5446-DKWYW,0.2542703831924488,LOW RISK,3977.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0480-KYJVA,0.015645829474804973,LOW RISK,1746.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1074-AMIOH,0.44496516526189644,MEDIUM RISK,5737.25,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0015-UOCOJ,0.6367258685171514,HIGH RISK,1810.8723231542328,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0256-LTHVJ,0.6981239205562092,HIGH RISK,3045.0456803247,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4547-LYTDD,0.6931882643155283,HIGH RISK,2729.4579725550834,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1077-HUUJM,0.8221005775722443,HIGH RISK,2669.346028218013,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2041-JIJCI,0.5688211657833065,MEDIUM RISK,2404.4777734827985,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1555-HAPSU,0.016141861220836717,LOW RISK,1696.9,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4323-SADQS,0.5386299729442693,MEDIUM RISK,1296.1637997680712,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3292-PBZEJ,0.7998205918826962,HIGH RISK,4185.294124468496,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6203-HBZPA,0.04472942008245993,LOW RISK,3322.8,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9755-JHNMN,0.05396315133260552,LOW RISK,3302.6000000000004,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+7369-TRPFD,0.027922132184469515,LOW RISK,706.3153459605721,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9878-TNQGW,0.8696836511710386,HIGH RISK,3041.2886838036334,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2279-AXJJK,0.4609194107863776,MEDIUM RISK,4973.8,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5016-IBERQ,0.6570497837978327,HIGH RISK,3165.2695689988404,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1016-DJTSV,0.8290338067296671,HIGH RISK,2618.6265751836104,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8433-WPJTV,0.38048282981097814,MEDIUM RISK,6753.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8903-XEBGX,0.7605624926570175,HIGH RISK,2077.6190761499806,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2632-TACXW,0.016383613924696602,LOW RISK,1466.3,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7952-OBOYL,0.8310171515713561,HIGH RISK,3375.661374178585,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1470-PSXNM,0.40648640392462143,MEDIUM RISK,4588.85,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6227-HWPWX,0.6051661477080025,HIGH RISK,2592.3275995361423,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5924-SNGKP,0.041467766377929545,LOW RISK,830.25,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8818-DOPVL,0.7286509434077815,HIGH RISK,4804.7,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4521-WFJAI,0.06729734133414374,LOW RISK,1453.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4724-WXVWF,0.5097671857775127,MEDIUM RISK,4579.200000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3717-OEAUQ,0.8131061330983245,HIGH RISK,2656.196540394279,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8165-ZJRNM,0.010665660261746195,LOW RISK,1710.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7838-LAZFO,0.2122102534423545,LOW RISK,3546.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0513-RBGPE,0.0720439304638886,LOW RISK,2359.393815229996,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+7251-XFOIL,0.502925294121988,MEDIUM RISK,5441.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2525-GVKQU,0.050766948968970674,LOW RISK,1236.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7579-OOPEC,0.6378278161797319,HIGH RISK,1884.1337553150363,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3795-GWTRD,0.05826364284412321,LOW RISK,4759.65,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4750-ZRXIU,0.895662847062406,HIGH RISK,3178.419056822574,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5445-PZWGX,0.27115710313258046,LOW RISK,6324.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0516-UXRMT,0.26567190522268164,LOW RISK,5707.099999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0727-BNRLG,0.16976090385143244,LOW RISK,6737.85,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3932-CMDTD,0.5164507557922127,MEDIUM RISK,3969.2668245071513,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1264-FUHCX,0.26234075527350603,LOW RISK,2758.7,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6194-HBGQN,0.16787045747058252,LOW RISK,4138.650000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4524-QCSSM,0.4404312490572995,MEDIUM RISK,1677.4989466563586,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4570-QHXHL,0.6876948379280675,HIGH RISK,1643.6859779667568,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2972-YDYUW,0.3582727126934585,MEDIUM RISK,5397.900000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2061-VVFST,0.26928977982552793,LOW RISK,732.6143216080402,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6874-SGLHU,0.4654129733924228,MEDIUM RISK,3644.2866254348655,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9844-FELAJ,0.3670556185873609,MEDIUM RISK,7553.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1902-XBTFB,0.745481462714796,HIGH RISK,3358.7548898337845,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9039-RBEEE,0.25828559394839123,LOW RISK,1909.05,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9369-XFEHK,0.6331589753556901,HIGH RISK,3028.1391959799,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3680-CTHUH,0.38104588446090654,MEDIUM RISK,6996.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3679-XASPY,0.4926588315737333,MEDIUM RISK,730.7358233475067,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9089-UOWJG,0.42752962766814206,MEDIUM RISK,2192.20747004252,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1574-DYCWE,0.012841679817687286,LOW RISK,1017.45,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9779-DPNEJ,0.7254049592950875,HIGH RISK,3011.2327116350984,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2967-MXRAV,0.13088963110066953,LOW RISK,706.3153459605721,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0327-WFZSY,0.47396355387182,MEDIUM RISK,3900.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1731-TVIUK,0.8111465840311486,HIGH RISK,3512.791747197526,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+7666-WKRON,0.24964485913576978,LOW RISK,3137.55,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3865-ZYKAD,0.3652552822206799,MEDIUM RISK,5858.1,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1465-LNTLJ,0.39389254629978515,MEDIUM RISK,2419.5057595670664,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2696-RZVZW,0.03489032179816914,LOW RISK,1703.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0685-MLYYM,0.8323027269587011,HIGH RISK,2658.0750386548125,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2778-OCLGR,0.5342875793670143,MEDIUM RISK,1468.9856397371473,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3982-XWFZQ,0.4447262942643424,MEDIUM RISK,2110.5,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4759-PXTAN,0.24560808103449983,LOW RISK,4725.9,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1448-PWKYE,0.8606285395695297,HIGH RISK,3005.597216853498,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8741-LQOBK,0.3459727239959068,MEDIUM RISK,1612.3,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8650-RHRKE,0.7874732148904635,HIGH RISK,1113.9494684963277,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7266-GSSJX,0.22954668360867533,LOW RISK,768.3057885581754,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1265-HVPZB,0.16871603383463135,LOW RISK,3917.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9640-ZSLDC,0.1811353088090663,LOW RISK,3211.8,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+0988-JRWWP,0.749877524396998,HIGH RISK,2036.292114418245,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1926-QUZNN,0.020366531952131693,LOW RISK,1818.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9025-ZRPVR,0.22354980966734636,LOW RISK,711.9508407421723,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6527-PZFPV,0.034237681053218394,LOW RISK,781.4552763819096,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7460-ITWWP,0.6792529580602217,HIGH RISK,3874.5,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1530-ZTDOZ,0.30258745503226014,MEDIUM RISK,1991.85,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4785-FCIFB,0.016795786581364353,LOW RISK,1488.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9717-QEBGU,0.8562967138843964,HIGH RISK,2641.168554310012,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0876-WDUUZ,0.7764296130043565,HIGH RISK,3208.4750289911094,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7881-EVUAD,0.6953984914825948,HIGH RISK,1600.4805179744878,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4002-BQWPQ,0.21494183668413808,LOW RISK,3071.3446559721683,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6377-WHAOX,0.6881285277997395,HIGH RISK,6369.0,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+5027-YOCXN,0.3692089939614458,MEDIUM RISK,5612.55,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8450-JOVAH,0.4859864626104023,MEDIUM RISK,2130.2170274449168,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6646-QVXLR,0.48972613681386584,MEDIUM RISK,6432.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0254-KCJGT,0.2218697001752256,LOW RISK,4232.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3442-ZHHCC,0.2660415521470703,LOW RISK,5229.200000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9167-APMXZ,0.6834028998375409,HIGH RISK,3161.5125724777736,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0616-ATFGB,0.8059924248760366,HIGH RISK,941.1276285272515,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7273-TEFQD,0.8368246877316357,HIGH RISK,1546.004068419018,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8245-UMPYT,0.8237555039044874,HIGH RISK,3621.7446463084657,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6022-UGGSO,0.7095657473192878,HIGH RISK,2795.2054116737536,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6292-TOSSS,0.05295355443625988,LOW RISK,1245.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5207-PLSTK,0.6124685478896867,HIGH RISK,1831.5358040201004,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3908-BLSYF,0.8015145029943739,HIGH RISK,3152.1200811751064,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4317-VTEOA,0.6974122188193228,HIGH RISK,1906.675734441438,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0625-AFOHS,0.015546836365440566,LOW RISK,758.9132972555083,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4667-OHGKG,0.5963040652749481,MEDIUM RISK,725.1003285659065,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2386-OWURY,0.583866014553504,MEDIUM RISK,5527.4,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3780-DDGSE,0.29497629523891433,LOW RISK,2857.1958542713564,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1047-RNXZV,0.027765523453946138,LOW RISK,840.65,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3926-YZVVX,0.1785876495153146,LOW RISK,2052.05,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+4742-TXUEX,0.02201222060249752,LOW RISK,907.1,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8709-KRDVL,0.7599709366492101,HIGH RISK,3756.996521066872,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0397-ZXWQF,0.027093252335843355,LOW RISK,1373.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3910-MRQOY,0.017822748754567977,LOW RISK,1396.8,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2511-MORQY,0.16338432345085077,LOW RISK,2745.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+4039-PIMHX,0.1652751493078466,LOW RISK,2440.2,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8083-YTZES,0.8800321777337696,HIGH RISK,2793.32691341322,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1346-PJWTK,0.3744879980429351,MEDIUM RISK,5743.150000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3750-YHRYO,0.04706589694532833,LOW RISK,775.8197816003092,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1236-WFCDV,0.6851110807307593,HIGH RISK,3398.203353304986,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5949-HGVJL,0.3477098756743886,MEDIUM RISK,2744.4859586393504,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9112-WSNPU,0.6657841086187498,HIGH RISK,2650.5610456126788,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1360-JYXKQ,0.47949386045700954,MEDIUM RISK,5351.4,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3585-ISXZP,0.8490095421755898,HIGH RISK,3593.567172400464,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8380-PEFPE,0.8812522660334524,HIGH RISK,2691.8880073444143,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9402-ROUMJ,0.2824427736232977,LOW RISK,6716.75,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4335-UPJSI,0.03242509732246057,LOW RISK,742.0068129107074,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6096-EGVTU,0.0457276779882213,LOW RISK,1593.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8988-ECPJR,0.5852588858584131,MEDIUM RISK,2990.56923076923,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7677-SJJJK,0.06200089209133954,LOW RISK,747.6423076923076,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5850-BDWCY,0.2570635359656911,LOW RISK,758.9132972555083,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2025-JKFWI,0.7625364009674972,HIGH RISK,3719.426555856204,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8028-PNXHQ,0.0252420489466757,LOW RISK,1503.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8397-MVTAZ,0.7839096426005043,HIGH RISK,3758.875019327406,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4445-ZJNMU,0.8337184128968387,HIGH RISK,3730.697545419405,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3125-RAHBV,0.02642857011640236,LOW RISK,762.6702937765751,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6682-QJDGB,0.29768730287285683,LOW RISK,2210.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8840-DQLGN,0.4662549560579777,MEDIUM RISK,3775.7815036722072,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6258-NGCNG,0.2396805103480507,LOW RISK,882.8941824507151,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5917-RYRMG,0.019551422822868727,LOW RISK,743.8853111712408,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7157-SMCFK,0.08755876724665748,LOW RISK,1204.75,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0816-TSPHQ,0.24826742729509566,LOW RISK,779.576778121376,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6766-HFKLA,0.2073348004853344,LOW RISK,5779.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7067-KSAZT,0.4296030001605961,MEDIUM RISK,6906.25,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5155-AZQPB,0.3190530095236491,MEDIUM RISK,1874.7412640123691,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6890-PFRQX,0.31497287924971773,MEDIUM RISK,2611.1125821414767,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3508-VLHCZ,0.01600144214537536,LOW RISK,6429.05,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3649-JPUGY,0.054416574777004956,LOW RISK,6379.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9248-OJYKK,0.9129588476930508,HIGH RISK,2872.2238403556244,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7239-HZZCX,0.5892461132649344,MEDIUM RISK,742.0068129107074,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9860-LISIZ,0.17817489334447553,LOW RISK,764.5487920371087,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6979-ZNSFF,0.882950041040038,HIGH RISK,3270.4654715887127,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8938-UMKPI,0.7120723011250603,HIGH RISK,5000.8,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1820-DJFPH,0.016750843639038223,LOW RISK,1731.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0732-OCQOC,0.03999544554209091,LOW RISK,1302.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6776-TLWOI,0.26479310458409183,LOW RISK,745.7638094317742,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4940-KHCWD,0.037513326141448984,LOW RISK,2262.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9057-SIHCH,0.9108884371050595,HIGH RISK,3629.258639350599,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+9866-QEVEE,0.7143681499815506,HIGH RISK,3231.0170081175106,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5542-TBBWB,0.8959275774380019,HIGH RISK,2626.140568225744,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4587-VVTOX,0.8658194552801338,HIGH RISK,3956.117336683417,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6322-HRPFA,0.20525824538201318,LOW RISK,2920.4,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6284-AHOOQ,0.5993292741189675,MEDIUM RISK,3400.08185156552,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4530-NDRKU,0.06530116950630747,LOW RISK,800.1,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1751-NCDLI,0.7827133708466798,HIGH RISK,4547.099999999999,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3893-JRNFS,0.43805046684558957,MEDIUM RISK,2713.2,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5857-XRECV,0.2203424725238552,LOW RISK,770.1842868187089,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3115-CZMZD,0.08078770704024932,LOW RISK,760.7917955160417,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4489-SNOJF,0.30519376241631063,MEDIUM RISK,2714.4299864708155,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1051-GEJLJ,0.4555749489455849,MEDIUM RISK,732.6143216080402,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3563-SVYLG,0.045676854052181574,LOW RISK,4260.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4301-VVZKA,0.8070066894511834,HIGH RISK,2832.7753768844223,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9351-HXDMR,0.20239809330442415,LOW RISK,7984.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5161-XEUVX,0.16513796034809583,LOW RISK,3542.847719366061,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3088-FVYWK,0.05194357414686372,LOW RISK,1354.15,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9812-GHVRI,0.6042953480615431,HIGH RISK,3354.0,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1370-GGAWX,0.3577384734415387,MEDIUM RISK,4330.900000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6023-YEBUP,0.9030075510406061,HIGH RISK,3792.687988017008,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+9940-RHLFB,0.8541730271903778,HIGH RISK,2829.018380363355,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4541-RMRLG,0.24218418242390738,LOW RISK,723.221830305373,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2606-RMDHZ,0.604263430882348,HIGH RISK,1145.8839389253965,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5575-TPIZQ,0.5438338459055114,MEDIUM RISK,4100.900000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9378-FXTIZ,0.2616476989348088,LOW RISK,3788.1,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4631-OACRM,0.8029279798414584,HIGH RISK,2983.055237727097,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8593-WHYHV,0.8942671224482744,HIGH RISK,3204.718032470042,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1403-GYAFU,0.007327209328131094,LOW RISK,1403.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7641-TQFHN,0.24386292537401924,LOW RISK,3921.45,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4237-CLSMM,0.28474706910180325,LOW RISK,751.3993042133745,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4360-PNRQB,0.6568453947911784,HIGH RISK,2840.2893699265555,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5334-AFQJB,0.05287667602502528,LOW RISK,1807.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9308-ANMVE,0.3395552097178974,MEDIUM RISK,2599.1,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3530-VWVGU,0.1794481825068712,LOW RISK,747.6423076923076,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4674-HGNUA,0.020529024861723436,LOW RISK,6382.900000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3030-YDNRM,0.8642246242340468,HIGH RISK,2812.111896018554,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3642-BYHDO,0.010861087311182918,LOW RISK,1412.9,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0440-UEDAI,0.2936823151549849,LOW RISK,5005.85,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9819-FBNSV,0.6079890479993719,HIGH RISK,2714.4299864708155,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9289-LBQVU,0.249847979395659,LOW RISK,4489.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4468-YDOVK,0.5347823371585727,MEDIUM RISK,1827.7788074990333,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2001-EWBQU,0.3464600755125899,MEDIUM RISK,6282.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9992-UJOEL,0.7066582969235954,HIGH RISK,1889.7692500966368,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8409-WQJUX,0.21254631613339445,LOW RISK,2036.292114418245,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3077-RSNTJ,0.21707395392871018,LOW RISK,740.1283146501739,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6993-YCOBK,0.28199581680598035,LOW RISK,6636.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4817-VYYWS,0.7667249055713695,HIGH RISK,3764.510514109007,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4702-HDRKD,0.08564088325489014,LOW RISK,3306.4500000000003,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3251-YMVWZ,0.15686274459409819,LOW RISK,1274.65,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4190-MFLUW,0.41882329364514237,MEDIUM RISK,2073.8620796289138,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4678-DVQEO,0.7284229603384804,HIGH RISK,1961.152183996908,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4701-AHWMW,0.23671185860233912,LOW RISK,3000.25,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2987-BJXIK,0.05771267758747095,LOW RISK,5929.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1730-VFMWO,0.24494162822734833,LOW RISK,1886.0122535755704,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1936-UAFEH,0.2287769562394885,LOW RISK,7497.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5140-FOMCQ,0.36895010780152454,MEDIUM RISK,6439.85,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8778-LMWTJ,0.750361921888687,HIGH RISK,2812.111896018554,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9840-DVNDC,0.7861266196583186,HIGH RISK,3024.3821994588325,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8033-VCZGH,0.49800429593956375,MEDIUM RISK,5197.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8580-QVLOC,0.051413521614125324,LOW RISK,6656.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6128-AQBMT,0.6132217527379371,HIGH RISK,2211.9500000000003,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6257-RJOHI,0.5519256341125385,MEDIUM RISK,1908.5542327019712,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1929-ZCBHE,0.16538537657859959,LOW RISK,1894.1,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6242-SGYTS,0.22134562620344106,LOW RISK,5886.900000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7010-ZMVBF,0.18628076930155033,LOW RISK,768.3057885581754,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3519-ZKXGG,0.8795411004953612,HIGH RISK,2849.6818612292227,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5666-MBJPT,0.04622255642327833,LOW RISK,1631.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3313-QKNKB,0.3790119587715048,MEDIUM RISK,5047.45,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7581-EBBOU,0.15401431380377628,LOW RISK,4209.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1784-BXEFA,0.2055842138539107,LOW RISK,772.0627850792424,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7492-TAFJD,0.15726687780484316,LOW RISK,1448.3221588712793,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5213-TWWJU,0.5617555828538037,MEDIUM RISK,3418.866834170854,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3312-ZWLGF,0.675988204860219,HIGH RISK,2979.29824120603,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2923-ARZLG,0.2327028784594885,LOW RISK,740.1283146501739,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7032-LMBHI,0.08769767491147175,LOW RISK,2428.8982508697336,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8292-ITGYJ,0.04124544554209091,LOW RISK,1109.25,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9107-UKCKY,0.3233047906693807,MEDIUM RISK,4867.8,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6848-HJTXY,0.014978685438646958,LOW RISK,1244.8,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4184-VODJZ,0.3547966255005688,MEDIUM RISK,5755.049999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4846-WHAFZ,0.7356828105462085,HIGH RISK,2874.102338616158,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8735-SDUFN,0.010516486978521266,LOW RISK,1749.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0839-JTCUD,0.04168148039488187,LOW RISK,5933.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6857-VWJDT,0.8950996510384046,HIGH RISK,3593.567172400464,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+7363-QTBIW,0.8393827605293839,HIGH RISK,2996.204725550831,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6158-HDPXZ,0.7105280026031856,HIGH RISK,952.3986180904524,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5419-CONWX,0.8249514658221092,HIGH RISK,3749.4825280247383,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+9286-DOJGF,0.6177814911604743,HIGH RISK,2848.1,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2408-PSJVE,0.2225593998611919,LOW RISK,2723.6,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2087-QAREY,0.40514563111198776,MEDIUM RISK,2055.0770970235794,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6777-TGHTM,0.4655413672701726,MEDIUM RISK,5668.35,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6507-ZJSUR,0.7642498161076802,HIGH RISK,3398.203353304986,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5025-GOOKI,0.22594712624781746,LOW RISK,710.0723424816389,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6080-LNESI,0.05249345950684547,LOW RISK,1262.25,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2236-HILPA,0.0080113957039201,LOW RISK,1280.3,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1386-ZIKUV,0.22103773370054414,LOW RISK,711.9508407421723,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3365-SAIGS,0.7544863245395227,HIGH RISK,3138.970593351372,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6061-GWWAV,0.15272492573113602,LOW RISK,2878.2000000000003,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9979-RGMZT,0.5678108911357469,MEDIUM RISK,3533.455228063394,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8445-DNBAE,0.7506150616318271,HIGH RISK,1880.3767587939697,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6872-HXFNF,0.09936442530624433,LOW RISK,3734.4,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1320-HTRDR,0.8828280167953829,HIGH RISK,2836.5323734054887,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3923-CSIHK,0.6698435217916605,HIGH RISK,3552.5,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2446-ZKVAF,0.3533816493672265,MEDIUM RISK,2133.974023965984,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4640-UHDOS,0.5473594991662029,MEDIUM RISK,2102.0395535369157,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5457-COLHT,0.04572681923797283,LOW RISK,5564.85,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2254-DLXRI,0.8581657085523655,HIGH RISK,2973.6627464244298,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5339-PXDVH,0.7129923461747493,HIGH RISK,3405.7173463471204,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2386-LAHRK,0.7557145170811382,HIGH RISK,2009.9931387707768,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5062-CJJKH,0.234589236226303,LOW RISK,2015.628633552377,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8930-XOTDP,0.40994326620731575,MEDIUM RISK,2102.0395535369157,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4779-ZGICK,0.013626577884951297,LOW RISK,1130.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9534-NSXEM,0.021139548964496963,LOW RISK,775.8197816003092,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3716-BDVDB,0.8929793728541218,HIGH RISK,2596.0845960572087,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9842-EFSYY,0.5113380202064781,MEDIUM RISK,2149.002010050251,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9122-UMROB,0.5548463174386726,MEDIUM RISK,762.6702937765751,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1867-BDVFH,0.7995675966028157,HIGH RISK,2793.32691341322,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5949-EBSQK,0.41941934303023076,MEDIUM RISK,2308.6743621955934,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4160-AMJTL,0.31114308763149023,MEDIUM RISK,738.2498163896404,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8622-ZLFKO,0.8726152762700998,HIGH RISK,3409.474342868187,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2990-IAJSV,0.029490885111197806,LOW RISK,6624.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6064-ZATLR,0.08307059115622453,LOW RISK,1985.5726613838424,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7409-KIUTL,0.8771996188957821,HIGH RISK,2667.46752995748,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5505-OVWQW,0.03908298284429134,LOW RISK,757.0347989949748,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3948-KXDUF,0.047674442802380715,LOW RISK,4537.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9814-AOUDH,0.06280102444229217,LOW RISK,1033.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7398-LXGYX,0.49325214005695317,MEDIUM RISK,3731.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5266-PFRQK,0.032194313804405426,LOW RISK,1084.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1568-BEKZM,0.05719092775109193,LOW RISK,6303.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2692-PFYTJ,0.4016157729819158,MEDIUM RISK,967.4266041747196,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2533-QVMSK,0.21060713763816782,LOW RISK,5740.099999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5828-AVIPD,0.5449839955800981,MEDIUM RISK,3792.687988017008,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2907-ILJBN,0.07985812594012587,LOW RISK,773.9412833397759,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5226-NOZFC,0.7549551501461192,HIGH RISK,3221.6245168148434,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7114-AEOZE,0.0335056865648812,LOW RISK,1191.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2202-CUYXZ,0.8940997269957229,HIGH RISK,3187.811548125241,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3466-RITXD,0.6288716305527594,HIGH RISK,3471.4647854657906,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7278-CKDNC,0.7781884627008351,HIGH RISK,3024.3821994588325,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1956-YIFGE,0.4938328635668549,MEDIUM RISK,3758.875019327406,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0422-UXFAP,0.5373256818411449,MEDIUM RISK,5041.349999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3733-UOCWF,0.17375494227662788,LOW RISK,5218.55,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7191-ADRGF,0.24271639241429446,LOW RISK,2389.2,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5709-LVOEQ,0.13771261896714035,LOW RISK,3037.5316872825665,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6034-YMTOB,0.7358079041355114,HIGH RISK,2842.1678681870894,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6372-RFVNS,0.869888464951537,HIGH RISK,2960.513258600696,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9052-DHNKM,0.1501704621001937,LOW RISK,2312.43135871666,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5609-IMCGG,0.625571678376991,HIGH RISK,3169.026565519907,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2959-MJHIC,0.8641196706365777,HIGH RISK,3018.746704677232,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1319-YLZJG,0.6662938656460927,HIGH RISK,3178.419056822574,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7623-TRNQN,0.5345300742714008,MEDIUM RISK,1874.7412640123691,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0377-JBKKT,0.2563042594839437,LOW RISK,2177.1794839582526,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1936-CZAKF,0.27521348458407396,LOW RISK,2432.85,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5063-IUOKK,0.031846058878541576,LOW RISK,742.0068129107074,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8646-JCOMS,0.17742468346443954,LOW RISK,5976.3,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0979-MOZQI,0.09701043406992386,LOW RISK,2418.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1525-LNLOJ,0.12213259513582242,LOW RISK,4177.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5759-RCVCB,0.6618370518522246,HIGH RISK,1322.4627754155392,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9968-FFVVH,0.10493142897944534,LOW RISK,4334.4,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2266-FUBDZ,0.01666928874619223,LOW RISK,726.9788268264399,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4760-THGOT,0.5383562191922904,MEDIUM RISK,4046.3,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2307-FYNNL,0.4028864787608713,MEDIUM RISK,7088.25,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1143-NMNQJ,0.9041816726390031,HIGH RISK,3219.74601855431,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1629-DQQVB,0.38795386436159846,MEDIUM RISK,1882.2552570545035,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3766-EJLFL,0.2358577018862975,LOW RISK,7415.4,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8457-XIGKN,0.20977168768111665,LOW RISK,736.3713181291071,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4981-FLTMF,0.1609497229209058,LOW RISK,3716.4,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7606-BPHHN,0.033684276447972714,LOW RISK,1425.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7005-CCBKV,0.8389200576709089,HIGH RISK,3170.9050637804407,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4648-YPBTM,0.0652189702079249,LOW RISK,3916.7,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2325-ZUSFD,0.1539353788706317,LOW RISK,3995.7,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1240-KNSEZ,0.6749009140951698,HIGH RISK,755.1563007344415,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0430-IHCDJ,0.6733942036106189,HIGH RISK,1840.928295322768,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7957-RYHQD,0.5735333920047195,MEDIUM RISK,3168.0,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6164-HAQTX,0.03623056889841041,LOW RISK,3830.45,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0749-IRGQE,0.690699148128096,HIGH RISK,1701.9194240432932,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1227-UDMZR,0.015636503682906037,LOW RISK,6562.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5473-KHBPS,0.2612332925593613,LOW RISK,4976.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5297-MDOIR,0.17400872286851812,LOW RISK,5112.450000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8873-TMKGR,0.02464442677766032,LOW RISK,717.5863355237727,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6481-ESCNL,0.6611490895733266,HIGH RISK,3777.66000193274,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0463-WZZKO,0.244651791660696,LOW RISK,779.576778121376,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1038-RQOST,0.14105801435549975,LOW RISK,773.9412833397759,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4937-QPZPO,0.5168958804916993,MEDIUM RISK,6093.900000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3604-WLABM,0.5300241015511147,MEDIUM RISK,2038.1706126787783,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1360-XFJMR,0.3675095533103087,MEDIUM RISK,7349.900000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8717-VCTXJ,0.03153618868968897,LOW RISK,821.1,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5196-SGOAK,0.8785339423809932,HIGH RISK,2844.046366447623,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8739-XNIKG,0.8931730952858207,HIGH RISK,3155.877077696173,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2320-TZRRH,0.03284325574868397,LOW RISK,732.6143216080402,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5186-SAMNZ,0.8605079125932906,HIGH RISK,2611.1125821414767,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5760-FXFVO,0.7275230332733871,HIGH RISK,2966.148753382296,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5380-WJKOV,0.7488529392056802,HIGH RISK,3995.565800154619,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4703-MQYKT,0.03225298589459149,LOW RISK,736.3713181291071,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2001-MCUUW,0.3256639078842983,MEDIUM RISK,4997.900000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4947-DSMXK,0.6603955572583107,HIGH RISK,3670.5856010823354,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0076-LVEPS,0.29201380956307876,LOW RISK,1690.6484344800926,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5566-SOEZD,0.22390895989209258,LOW RISK,3030.017694240433,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+7408-OFWXJ,0.013999078806395176,LOW RISK,6465.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1097-FSPVW,0.2805458942492791,LOW RISK,2291.1,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+4412-YLTKF,0.7416890700274067,HIGH RISK,2932.3357846926942,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0420-TXVSG,0.08699355202461151,LOW RISK,4362.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7817-BOQPW,0.887895038291183,HIGH RISK,2838.410871666022,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0963-ZBDRN,0.6727687395364377,HIGH RISK,3614.230653266332,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+9685-WKZGT,0.8229908190789672,HIGH RISK,2815.8688925396214,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2139-FQHLM,0.5391924087581321,MEDIUM RISK,3379.418370699652,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5825-XJOCM,0.1363896703164261,LOW RISK,3091.2000000000003,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+0004-TLHLJ,0.8340737202556862,HIGH RISK,2776.4204290684197,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7529-ZDFXI,0.6395842927972205,HIGH RISK,5121.45,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6848-YLDFR,0.2480605708963771,LOW RISK,4361.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5820-PTRYM,0.1441571752967676,LOW RISK,3833.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2984-RGEYA,0.021854923573156312,LOW RISK,1362.75,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6434-TTGJP,0.07004595001818999,LOW RISK,2017.5071318129108,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9643-AVVWI,0.792869718214856,HIGH RISK,3005.597216853498,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3506-OVLKD,0.1554235411438441,LOW RISK,984.3330885195206,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4946-EDSEW,0.2496425851227938,LOW RISK,723.221830305373,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2924-KHUVI,0.439454972319843,MEDIUM RISK,5630.8,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2263-SFSQZ,0.05817911294583325,LOW RISK,1272.45,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5281-BUZGT,0.6652116557107588,HIGH RISK,3413.2313393892537,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3717-FDJFU,0.03490432964873752,LOW RISK,768.3057885581754,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2239-CFOUJ,0.1484088441273457,LOW RISK,766.427290297642,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8699-ASUFO,0.848284662977652,HIGH RISK,2795.2054116737536,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1122-YJBCS,0.14972988304445375,LOW RISK,3701.85,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0628-CNQRM,0.16773580560922974,LOW RISK,2535.972651720139,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1705-GUHPV,0.022146454907009585,LOW RISK,1524.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4877-TSOFF,0.14921767913265865,LOW RISK,4166.25,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7404-JLKQG,0.6723396659485539,HIGH RISK,2162.151497873985,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0379-DJQHR,0.0628859266011445,LOW RISK,5450.45,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8993-PHFWD,0.7550286104006397,HIGH RISK,948.6416215693854,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3930-ZGWVE,0.5892461132649344,MEDIUM RISK,742.0068129107074,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1965-DDBWU,0.61488669785416,HIGH RISK,3345.60540201005,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7572-KPVKK,0.3817399752389339,MEDIUM RISK,6451.099999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6854-EXGSF,0.42877098082296633,MEDIUM RISK,2460.832721298801,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9483-GCPWE,0.04315466937657289,LOW RISK,755.1563007344415,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8053-WWDRO,0.34037985796406006,MEDIUM RISK,732.6143216080402,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9473-CBZOP,0.10384009559004158,LOW RISK,2216.6279474294547,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3985-HOYPM,0.022297547850136237,LOW RISK,728.8573250869732,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8378-LKJAF,0.6679944015001731,HIGH RISK,3843.7,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1310-QRITU,0.6005707292571363,HIGH RISK,1889.7692500966368,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3237-AJGEH,0.5316378845936629,MEDIUM RISK,1164.6689215307306,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6542-LWGXJ,0.6917365937337854,HIGH RISK,939.249130266718,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6953-PBDIN,0.0689951881059697,LOW RISK,5106.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6332-FBZRI,0.12773634902372333,LOW RISK,4646.45,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9365-CSLBQ,0.022747031135109924,LOW RISK,1728.85,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3466-WAESX,0.43337332257311756,MEDIUM RISK,2596.0845960572087,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9700-ISPUP,0.4799398610594079,MEDIUM RISK,2460.832721298801,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5167-ZFFMM,0.8592759888211081,HIGH RISK,3413.2313393892537,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7669-LCRSD,0.46401694464458115,MEDIUM RISK,2115.1890413606493,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0870-VEMYL,0.46816369628059784,MEDIUM RISK,2023.142626594511,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2995-UPRYS,0.3833419202196518,MEDIUM RISK,3968.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3179-GBRWV,0.35951005590834617,MEDIUM RISK,2440.1692404329337,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0701-TJSEF,0.3344768882641675,MEDIUM RISK,2564.150125628141,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1848-LBZHY,0.458461796114247,MEDIUM RISK,1889.7692500966368,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5380-XPJNZ,0.02885990088051433,LOW RISK,761.9,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6608-QQLVK,0.8059864280625081,HIGH RISK,1897.2832431387708,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1475-VWVDO,0.8304341677791496,HIGH RISK,2813.990394279088,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3721-CNEYS,0.8622818749019469,HIGH RISK,2665.589031696946,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4299-OPXEJ,0.03597859285589629,LOW RISK,1094.8,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0096-BXERS,0.6469557697979608,HIGH RISK,1891.6477483571705,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3055-VTCGS,0.1949518253748771,LOW RISK,3688.65,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9405-GPBBG,0.21978796896718808,LOW RISK,7072.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6704-UTUKK,0.5608877385671055,MEDIUM RISK,1724.4614031696944,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9944-AEXBM,0.6805968282277314,HIGH RISK,3217.8675202937766,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2545-EBUPK,0.9059322863477596,HIGH RISK,3157.7555759567063,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6270-OMFIW,0.4281953856077517,MEDIUM RISK,5664.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1852-XEMDW,0.3275376791708628,MEDIUM RISK,2443.9262369540006,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8158-WPEZG,0.48720896487180565,MEDIUM RISK,1339.36925976034,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5198-EFNBM,0.3723109933282926,MEDIUM RISK,5167.05,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7663-RGWBC,0.7399564832440575,HIGH RISK,1658.7139640510245,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3970-XGJDU,0.03079708057907204,LOW RISK,1190.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6845-RGTYS,0.5768395331218277,MEDIUM RISK,4641.25,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0123-CRBRT,0.026020287625157082,LOW RISK,5374.099999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6077-BDPXA,0.8525663056741709,HIGH RISK,2635.5330595284117,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2250-IVBWA,0.3336475576368691,MEDIUM RISK,5187.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6137-NICCO,0.8312928357159437,HIGH RISK,3533.455228063394,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8129-GMVGI,0.019543050941398746,LOW RISK,1122.8,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4353-HYOJD,0.3428522666137306,MEDIUM RISK,1872.862765751836,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8671-KKKOS,0.3980045245363927,MEDIUM RISK,2095.3,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8080-DDEMJ,0.7831799674845441,HIGH RISK,1694.4054310011595,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6698-OXETB,0.030344973789892423,LOW RISK,766.427290297642,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3312-UUMZW,0.7002311448342559,HIGH RISK,3713.791061074604,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6376-GAHQE,0.8315991702949,HIGH RISK,2924.82179165056,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0733-VUNUW,0.34144540088427305,MEDIUM RISK,2090.7685639737147,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6733-LRIZX,0.41083203162479975,MEDIUM RISK,4093.247709702358,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2165-VOEGB,0.3618740564409363,MEDIUM RISK,4839.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1853-UDXBW,0.8703166078517071,HIGH RISK,2629.897564746811,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9070-BCKQP,0.14234826437985504,LOW RISK,7930.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1035-IPQPU,0.6847752193970231,HIGH RISK,6520.5,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2057-ZBLPD,0.7741820071034049,HIGH RISK,3249.801990722845,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6967-PEJLL,0.19890781575448074,LOW RISK,1510.312601468883,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7879-CGSFV,0.39118595363445996,MEDIUM RISK,5549.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2257-BOVXD,0.4204923966008577,MEDIUM RISK,2502.159683030537,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9822-BIIGN,0.2944185730500439,LOW RISK,3808.05,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1136-XGEQU,0.20624037377236487,LOW RISK,4207.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2439-LYPMQ,0.7665979771288509,HIGH RISK,3898.8,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6543-XRMYR,0.7683733941000226,HIGH RISK,3745.725531503672,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+5753-QQWPW,0.1864741596742289,LOW RISK,2250.4409161190565,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+4785-QRJHC,0.2696280621018212,LOW RISK,2755.4,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+0052-YNYOT,0.10614794813104465,LOW RISK,1376.85,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7054-LGEQW,0.7249655414990831,HIGH RISK,1726.339901430228,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0608-JDVEC,0.024286225724734063,LOW RISK,990.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6284-KMNUF,0.4016957747519993,MEDIUM RISK,5488.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6286-SUUWT,0.6023188238653492,HIGH RISK,749.5208059528411,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3594-KADLU,0.5343306196176829,MEDIUM RISK,1318.7057788944724,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0536-ACXIP,0.13320708977402473,LOW RISK,7887.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8869-TORSS,0.12552243136069263,LOW RISK,2896.8,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+0373-AIVNJ,0.19969583270675287,LOW RISK,1485.892124081948,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6429-SHBCB,0.3958139972319372,MEDIUM RISK,2614.869578662543,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5751-USDBL,0.07584269002892459,LOW RISK,3726.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6815-ABQFQ,0.5077503880492585,MEDIUM RISK,6006.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9450-TRJUU,0.688723894559902,HIGH RISK,3123.942607267105,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2805-AUFQN,0.04777134806880203,LOW RISK,743.8853111712408,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7855-DIWPO,0.7128807378702375,HIGH RISK,2579.1781117124083,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0174-QRVVY,0.011083634853917314,LOW RISK,1799.85,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9507-EXLTT,0.8725491735445472,HIGH RISK,2981.176739466563,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8390-FESFV,0.044015634135781107,LOW RISK,5239.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0661-KBKPA,0.2864572856442125,LOW RISK,4173.75,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6856-RAURS,0.8775941873048329,HIGH RISK,2813.990394279088,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7322-OCWHC,0.08636886791956458,LOW RISK,6699.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2203-GHNWN,0.6263118031453816,HIGH RISK,2992.447729029764,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3413-CSSTH,0.3714895686456458,MEDIUM RISK,2283.7000000000003,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3006-XIMLN,0.9002584157795235,HIGH RISK,3539.090722844994,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3750-CKVKH,0.8435919620672506,HIGH RISK,2545.365143022806,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0576-WNXXC,0.7589052720963566,HIGH RISK,3589.810175879397,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+7056-IMHCC,0.750488911717987,HIGH RISK,5400.700000000001,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0866-QLSIR,0.12047856295433135,LOW RISK,2419.5057595670664,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1628-BIZYP,0.8816707915474098,HIGH RISK,3193.447042906842,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2230-XTUWL,0.014891070216805857,LOW RISK,938.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1980-KXVPM,0.8447581943335897,HIGH RISK,2819.625889060688,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8619-IJNDK,0.05510928361458316,LOW RISK,4547.55,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2960-NKRSO,0.6521000217892343,HIGH RISK,3229.138509856977,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6705-LXORM,0.7899397553368833,HIGH RISK,2631.7760630073444,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7130-VTEWQ,0.8618954547380078,HIGH RISK,2845.924864708156,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9364-YKUVW,0.2747698894195332,LOW RISK,743.8853111712408,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2761-OCIAX,0.8518476957430572,HIGH RISK,2806.476401236954,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7996-BPXHY,0.08538046387954976,LOW RISK,939.249130266718,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4248-QPAVC,0.6480203143603406,HIGH RISK,3206.5965307305755,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9357-UJRUN,0.27177628476560417,LOW RISK,2192.20747004252,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6340-DACFT,0.013234338486880857,LOW RISK,1027.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1023-BQXZE,0.07847461890124233,LOW RISK,4237.95,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5480-HPRRX,0.7925589471631553,HIGH RISK,950.5201198299188,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9576-SYUHJ,0.6527635132452895,HIGH RISK,3424.5023289524547,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2169-RRLFW,0.02088495733174976,LOW RISK,1817.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8338-QIUNR,0.08632307605945938,LOW RISK,4788.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0463-TXOAK,0.07363508395125364,LOW RISK,1331.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4396-KLSEH,0.23550268719782438,LOW RISK,745.7638094317742,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5186-EJEGL,0.40000013136598034,MEDIUM RISK,2611.1125821414767,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9334-GWGOW,0.8744149447650525,HIGH RISK,2812.111896018554,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5696-JVVQY,0.06902327770519846,LOW RISK,3364.8,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9633-DENPU,0.3437167158753599,MEDIUM RISK,2754.2000000000003,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0581-BXBUB,0.7476553728361215,HIGH RISK,2733.21496907615,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2750-BJLSB,0.5007784134941301,MEDIUM RISK,4873.900000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2770-NSVDG,0.5449821229318982,MEDIUM RISK,1093.28598763046,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8280-MQRQN,0.764746939414295,HIGH RISK,1895.4047448782371,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7851-FLGGQ,0.6114096899989234,HIGH RISK,1677.4989466563586,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9374-YOLBJ,0.4601734286982074,MEDIUM RISK,723.221830305373,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6583-SZVGP,0.41324135841013465,MEDIUM RISK,5188.799999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2150-OEGBV,0.05933568244859057,LOW RISK,755.1563007344415,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9372-TXXPS,0.04092769109213751,LOW RISK,3591.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6933-FHBZC,0.24685771554301128,LOW RISK,2105.796550057982,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+4698-KVLLG,0.029297770672819422,LOW RISK,999.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8752-STIVR,0.8712465001093497,HIGH RISK,2968.027251642829,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8623-ULFNQ,0.4488974269604726,MEDIUM RISK,2481.4962021646693,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9822-WMWVG,0.5445117432290736,MEDIUM RISK,4366.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4304-TSPVK,0.11460706954912732,LOW RISK,7813.200000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1716-LSAMB,0.0793637127849202,LOW RISK,2459.25,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3523-QRQLL,0.29199418072356687,LOW RISK,2611.1125821414767,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2187-PKZAY,0.7775915898121152,HIGH RISK,3003.7187185929647,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1895-QTKDO,0.7092331007974866,HIGH RISK,1651.1999710088903,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8161-QYMTT,0.9003867105702088,HIGH RISK,3535.333726323927,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2955-PSXOE,0.5198454686114052,MEDIUM RISK,758.9132972555083,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6834-NXDCA,0.7099772676688848,HIGH RISK,897.9221685349825,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8701-DGLVH,0.028097413460506107,LOW RISK,1042.95,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2480-SQIOB,0.693020588346857,HIGH RISK,1683.134441437959,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4993-JCRGJ,0.5190943734465723,MEDIUM RISK,3167.1480672593734,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0581-MDMPW,0.6570815543255221,HIGH RISK,3341.848405488983,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7789-CRUVC,0.32962104378788404,MEDIUM RISK,5746.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0164-APGRB,0.12120683185187431,LOW RISK,8272.800000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8034-RYTVV,0.1884820010217693,LOW RISK,4633.75,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3018-TFTSU,0.5460525961501563,MEDIUM RISK,3069.466157711635,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9777-IQHWP,0.17639300823335166,LOW RISK,5977.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6899-PPEEA,0.7796151372693676,HIGH RISK,3627.3801410900655,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6701-YVNQG,0.019277294209983264,LOW RISK,6386.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7649-PHJVR,0.03399516138048279,LOW RISK,732.6143216080402,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9278-VZKCD,0.5416010073757836,MEDIUM RISK,5673.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7636-PEPNS,0.21245014331486017,LOW RISK,2557.8,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1575-KRZZE,0.5709492341314883,MEDIUM RISK,2073.8620796289138,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8590-OHDIW,0.032920902974367575,LOW RISK,771.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7764-BDPEE,0.20126168143785503,LOW RISK,783.333774642443,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9480-BQJEI,0.300161668892977,MEDIUM RISK,5722.599999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3354-OADJP,0.15198488568953858,LOW RISK,2038.1706126787783,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3181-MIZBN,0.1980486400276159,LOW RISK,742.0068129107074,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9327-QSDED,0.5317590153347809,MEDIUM RISK,1636.1719849246228,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4892-VLANZ,0.5892461132649344,MEDIUM RISK,743.8853111712408,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0298-XACET,0.06151307032276427,LOW RISK,2610.4,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6917-FIJHC,0.04554821109000909,LOW RISK,1872.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6557-BZXLQ,0.7080339299396974,HIGH RISK,2616.748076923077,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2432-TFSMK,0.38097562740955654,MEDIUM RISK,3366.268882875918,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4211-MMAZN,0.5701284135968416,MEDIUM RISK,760.7917955160417,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4751-ERMAN,0.15679491125700923,LOW RISK,5428.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8430-TWCBX,0.05115657473020321,LOW RISK,1014.3,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1942-OQFRW,0.7585031682159727,HIGH RISK,1653.078469269424,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4075-JFPGR,0.34965228327391074,MEDIUM RISK,4768.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3339-EAQNV,0.36746917539540314,MEDIUM RISK,7002.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5329-KRDTM,0.13129123477484733,LOW RISK,5569.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0307-BCOPK,0.03226383544157092,LOW RISK,715.7078372632393,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6473-ULUHT,0.36661588952020246,MEDIUM RISK,3189.690046385775,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1194-SPVSP,0.44453848542096464,MEDIUM RISK,738.2498163896404,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7249-WBIYX,0.8719602413484415,HIGH RISK,3215.9890220332427,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2293-IJWPS,0.4448089237201319,MEDIUM RISK,5742.75,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4377-VDHYI,0.3531156797609894,MEDIUM RISK,3411.35284112872,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0019-EFAEP,0.1093398693858582,LOW RISK,7293.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2480-EJWYP,0.4426497947596676,MEDIUM RISK,5672.4,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8970-ANWXO,0.2812063116782673,LOW RISK,2770.7849342868185,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8739-WWKDU,0.7982553541504228,HIGH RISK,3362.511886354851,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2171-UDMFD,0.20203237792985163,LOW RISK,730.7358233475067,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7036-TYDEC,0.30046040479824176,MEDIUM RISK,7176.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3831-YCPUO,0.05196438935077413,LOW RISK,7884.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0121-SNYRK,0.10021201553634722,LOW RISK,1770.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3325-FUYCG,0.39941278058915947,MEDIUM RISK,3986.173308851952,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1952-DVVSW,0.05800919249209362,LOW RISK,755.1563007344415,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3571-DPYUH,0.24320052421904909,LOW RISK,5492.6,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2077-MPJQO,0.871006633428106,HIGH RISK,2832.7753768844223,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2391-SOORI,0.5715138181470416,MEDIUM RISK,1854.0777831465016,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4086-ATNFV,0.14400964485480522,LOW RISK,2284.2538848086583,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3396-DKDEL,0.09267363389560788,LOW RISK,8060.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7471-MQPOS,0.2869750937054655,LOW RISK,5175.900000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7181-OQCUT,0.6853595697378281,HIGH RISK,3901.6408871279473,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3489-VSFRD,0.11843535340690266,LOW RISK,3374.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6283-GITPX,0.04789573165085973,LOW RISK,5459.900000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2845-HSJCY,0.8022109549487717,HIGH RISK,3277.9794646308465,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7216-KAOID,0.03918471741825046,LOW RISK,799.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6680-WKXRZ,0.8231567465211184,HIGH RISK,2795.2054116737536,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2346-LOCWC,0.010038392963676597,LOW RISK,1189.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0769-MURVM,0.018154160068918193,LOW RISK,4730.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3374-LXDEV,0.6806374705768047,HIGH RISK,3358.7548898337845,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5318-YKDPV,0.09093852233701762,LOW RISK,3403.4500000000003,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8190-ZTQFB,0.41413734384684836,MEDIUM RISK,2105.35,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4512-ZUIYL,0.8153594106564919,HIGH RISK,2629.897564746811,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3090-QFUVD,0.3354251303408975,MEDIUM RISK,762.6702937765751,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4806-KEXQR,0.8592789236609629,HIGH RISK,3001.8402203324317,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2369-FEVNO,0.6640406031644841,HIGH RISK,747.6423076923076,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9637-CDTKZ,0.06653192707837413,LOW RISK,8215.199999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2954-PIBKO,0.07921789652103742,LOW RISK,4426.35,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2212-LYASK,0.3492978846312011,MEDIUM RISK,1722.5829049091612,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9481-SFCQY,0.46983489322363586,MEDIUM RISK,2246.6839195979896,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2828-SLQPF,0.49051102669469626,MEDIUM RISK,1690.6484344800926,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4647-MUZON,0.6915411035630512,HIGH RISK,3604.838161963664,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8212-DJRCH,0.6913944631647534,HIGH RISK,3394.44635678392,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0516-OOHAR,0.38456795599853366,MEDIUM RISK,3770.1460088906074,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4973-RLZVI,0.22749931110319999,LOW RISK,2804.5979029764208,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8089-UZWLX,0.25670557059650806,LOW RISK,7387.55,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9732-KPKBW,0.6146023825299352,HIGH RISK,2026.899623115578,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9715-WZCLW,0.2348423142608573,LOW RISK,6901.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0257-KXZGU,0.2680294637902582,LOW RISK,2346.244327406262,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+0707-HOVVN,0.1313550480245358,LOW RISK,5285.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5501-TVMGM,0.8095537377108764,HIGH RISK,2075.740577889447,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3422-LYEPQ,0.8715001256105439,HIGH RISK,2667.46752995748,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2277-VWCNI,0.7073612051602189,HIGH RISK,1831.5358040201004,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5461-QKNTN,0.6286398397307322,HIGH RISK,4054.9,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3967-KXAPS,0.022021608404522598,LOW RISK,6645.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6919-ELBGL,0.054809539294484295,LOW RISK,8276.4,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8361-LTMKD,0.8516724396028941,HIGH RISK,2795.2054116737536,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1131-ALZWV,0.13955428976955345,LOW RISK,924.2211441824508,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5178-LMXOP,0.9196078868391457,HIGH RISK,3572.9036915345955,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8992-CEUEN,0.5003860761211952,MEDIUM RISK,708.1938442211056,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3320-VEOYC,0.8536424561227186,HIGH RISK,3591.68867413993,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3672-YITQD,0.7554642218330233,HIGH RISK,3159.63407421724,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6080-TCMYC,0.7057778121657161,HIGH RISK,3248.0,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6734-FQAJX,0.2511012992059931,LOW RISK,7038.349999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1063-DHQJF,0.10231485432688837,LOW RISK,6358.35,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3976-NLDEZ,0.5656891317434627,MEDIUM RISK,773.9412833397759,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1729-VLAZJ,0.12042632361915041,LOW RISK,1512.1910997294162,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3400-ESFUW,0.03412440633852717,LOW RISK,3165.25,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5271-YNWVR,0.11186362203537635,LOW RISK,7694.200000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1587-FKLZB,0.5791978241665168,MEDIUM RISK,6567.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0958-YHXGP,0.7974786013342268,HIGH RISK,2626.140568225744,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1494-EJZDW,0.03164596607698587,LOW RISK,757.0347989949748,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1816-FLZDK,0.5522057731106671,MEDIUM RISK,1095.164485890993,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2075-PUEPR,0.03054681967591899,LOW RISK,1064.25,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1833-TCXKK,0.6637263788197819,HIGH RISK,4848.75,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1436-ZMJAN,0.4622624272060232,MEDIUM RISK,2547.2436412833395,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0106-UGRDO,0.12544282416264504,LOW RISK,8004.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1069-XAIEM,0.9170941701233198,HIGH RISK,3195.325541167375,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4213-HKBJO,0.09764643353197515,LOW RISK,965.5481059141864,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8345-MVDYC,0.06122596106397883,LOW RISK,3674.250000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2672-OJQZP,0.7126555646403041,HIGH RISK,1681.2559431774257,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5136-RGMZO,0.34125625684657107,MEDIUM RISK,2669.346028218013,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5774-QPLTF,0.03210801284015468,LOW RISK,1017.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5240-CAOYT,0.30069740697951663,MEDIUM RISK,4990.349999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3707-GNWHM,0.8897395376516846,HIGH RISK,2789.569916892153,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5159-YFPKQ,0.8563602215165903,HIGH RISK,2847.8033629686893,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5052-PNLOS,0.8501513665395366,HIGH RISK,3957.9958349439503,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6173-GOLSU,0.6316293275161904,HIGH RISK,6341.55,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6661-HBGWL,0.6796273356735429,HIGH RISK,4399.5,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8207-VVMYB,0.026762030468600706,LOW RISK,1820.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5324-KTGCG,0.11064934226036822,LOW RISK,1480.35,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7354-OIJLX,0.8510259577606609,HIGH RISK,2849.6818612292227,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9286-BHDQG,0.03471594127654296,LOW RISK,3258.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3567-PQTSO,0.461275623667978,MEDIUM RISK,5578.25,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3197-ARFOY,0.6684482065455832,HIGH RISK,3944.846347120216,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+5698-BQJOH,0.8564710709422063,HIGH RISK,3546.604715887128,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1090-ESELR,0.11654210712861818,LOW RISK,7596.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0056-EPFBG,0.07570581420364936,LOW RISK,1480.256629300348,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4955-VCWBI,0.033923515598366843,LOW RISK,860.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4717-GHADL,0.07207702087702848,LOW RISK,3980.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0058-EVZWM,0.473727750182211,MEDIUM RISK,4939.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7218-HKQFK,0.8301685031983078,HIGH RISK,3539.090722844994,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+5057-RKGLH,0.028385083117273138,LOW RISK,764.5487920371087,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2309-OSFEU,0.6231131622830879,HIGH RISK,1273.6218206416695,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3429-IFLEM,0.058529295733158786,LOW RISK,5491.849999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1550-LOAHA,0.5779050588451118,MEDIUM RISK,3161.5125724777736,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1400-MMYXY,0.871342496946049,HIGH RISK,3978.6593158098185,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+7503-QQRVF,0.6913781786788618,HIGH RISK,2791.4484151526863,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7504-UWHNB,0.6586333444050095,HIGH RISK,2620.505073444144,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9565-JSNFM,0.28441571844788244,LOW RISK,2677.1,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+4735-BJKOU,0.021598420988829355,LOW RISK,806.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3580-GICBM,0.04484989415628104,LOW RISK,1476.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7632-YUTXB,0.03806259984951068,LOW RISK,753.277802473908,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9412-ARGBX,0.13991738878110666,LOW RISK,4584.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9576-ANLXO,0.8184483295702831,HIGH RISK,2612.9910804020096,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1110-KYLGQ,0.4129801834527334,MEDIUM RISK,6819.75,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8696-JKZNU,0.736446264982547,HIGH RISK,2864.7098473134906,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8757-TFHHJ,0.6421216194733078,HIGH RISK,1870.9842674913025,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2955-BJZHG,0.7179769759681663,HIGH RISK,3037.5316872825665,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9048-JVYVF,0.6133927950562886,HIGH RISK,2605.477087359876,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0682-USIXD,0.7114768634343313,HIGH RISK,3232.895506378044,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3884-UEBXB,0.05466863010277347,LOW RISK,2422.05,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1776-SPBWV,0.06394875854550827,LOW RISK,755.1563007344415,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9050-QLROH,0.6700966803767965,HIGH RISK,3407.595844607654,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2925-VDZHY,0.017872660760731095,LOW RISK,6386.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9512-UIBFX,0.670496582049772,HIGH RISK,3574.7821897951294,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8676-TRMJS,0.816805421871901,HIGH RISK,2817.7473908001543,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3334-CTHOL,0.7046059434247478,HIGH RISK,1876.619762272903,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6331-LWDTQ,0.5454699368005238,MEDIUM RISK,2710.6729899497486,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3847-BAERP,0.21455176397767212,LOW RISK,785.2122729029763,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4709-LKHYG,0.04087376160921252,LOW RISK,751.3993042133745,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8621-MNIHH,0.6961791194635291,HIGH RISK,3540.969221105528,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8884-ADFVN,0.8929096104240278,HIGH RISK,3830.257953227677,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2885-HIJDH,0.06280447525329856,LOW RISK,5996.1,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8570-KLJYJ,0.08255649533258218,LOW RISK,2045.6846057209125,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9339-FIIJL,0.03445250508112128,LOW RISK,6188.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6223-DHJGV,0.03698315869839917,LOW RISK,867.3,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0959-WHOKV,0.36800280868716706,MEDIUM RISK,4158.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9610-WCESF,0.17737405842879528,LOW RISK,2941.3,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+9279-CJEOJ,0.7482387897640506,HIGH RISK,3584.174681097797,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+2985-FMWYF,0.7940645223565792,HIGH RISK,3512.791747197526,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3540-RZJYU,0.6948956034086277,HIGH RISK,3238.5310011596443,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2522-WLNSF,0.15180101131082066,LOW RISK,2411.991766524932,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6861-XWTWQ,0.8963018757972822,HIGH RISK,3728.819047158871,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8735-NBLWT,0.15960693271166984,LOW RISK,766.427290297642,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1744-JHKYS,0.11055340068992672,LOW RISK,927.9781407035176,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0841-NULXI,0.8576775447865274,HIGH RISK,1335.612263239273,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4016-BJKTZ,0.32859149327610515,MEDIUM RISK,4091.369211441825,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9298-WGMRW,0.06663293758180512,LOW RISK,8316.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7893-IXHRQ,0.4763827133715695,MEDIUM RISK,772.0627850792424,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8785-CJSHH,0.6839732385265382,HIGH RISK,5988.0,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+7654-YWJUF,0.19369654553786098,LOW RISK,3622.75,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8909-BOLNL,0.0667829454375338,LOW RISK,796.4832624661769,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9919-FZDED,0.07522641358338185,LOW RISK,6055.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0322-CHQRU,0.7553949194582844,HIGH RISK,1703.797922303827,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3587-PMCOY,0.5348292579150019,MEDIUM RISK,3715.669559335138,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0655-RBDUG,0.8831537081775973,HIGH RISK,3683.735088906069,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0983-TATYJ,0.23626771911501276,LOW RISK,1932.974710088906,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5650-YLIBA,0.7295982380656666,HIGH RISK,3048.802676845768,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5144-TVGLP,0.7117628284742554,HIGH RISK,3600.5,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+3569-EDBPQ,0.5923709807918914,MEDIUM RISK,3169.026565519907,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4945-RVMTE,0.417296630120444,MEDIUM RISK,2237.2914282953225,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+3511-BFTJW,0.07709159214747535,LOW RISK,2772.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5537-UXXVS,0.28897900736276966,LOW RISK,723.221830305373,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8782-NUUOL,0.1956423722872311,LOW RISK,4740.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2865-TCHJW,0.8942579964605012,HIGH RISK,3351.2408967916504,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9931-KGHOA,0.23319207923853935,LOW RISK,2530.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3071-MVJCD,0.03118909406837846,LOW RISK,5925.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7279-BUYWN,0.5768223015627629,MEDIUM RISK,4641.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3756-VNWDH,0.38588964135766446,MEDIUM RISK,6548.75,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1395-OFUWC,0.44245376553562293,MEDIUM RISK,1259.9,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4223-BKEOR,0.1777076688731704,LOW RISK,2436.412243911867,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+0040-HALCW,0.01843105079776817,LOW RISK,1101.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7124-UGSUR,0.40899584216780815,MEDIUM RISK,6368.400000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7395-XWZOY,0.3946234026806119,MEDIUM RISK,2066.34808658678,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5440-VHLUL,0.47551734422512104,MEDIUM RISK,7258.8,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4706-DGAHW,0.7831799674845441,HIGH RISK,1698.1624275222266,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8166-ORCHU,0.3517187985310945,MEDIUM RISK,3514.670245458059,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3978-YNKDD,0.034312111839902265,LOW RISK,783.333774642443,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7198-GLXTC,0.8524736501389534,HIGH RISK,2968.027251642829,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6366-XIVKZ,0.3774896320469677,MEDIUM RISK,2372.54330305373,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+5133-POWUA,0.7527368583223546,HIGH RISK,1720.7044066486276,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8400-WZICQ,0.2958432246644606,LOW RISK,3063.5,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5382-SOYZL,0.8244872620163364,HIGH RISK,3572.9036915345955,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1989-PRJHP,0.7335359946755492,HIGH RISK,2836.5323734054887,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4154-AQUGT,0.697970718529598,HIGH RISK,3345.60540201005,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0980-FEXWF,0.23520871606915983,LOW RISK,1891.6477483571705,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5845-BZZIB,0.00942980578200574,LOW RISK,755.1563007344415,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4840-ORQXB,0.6479259236718765,HIGH RISK,5866.0,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0295-PPHDO,0.9254628109329143,HIGH RISK,3586.05317935833,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8775-ERLNB,0.8639538649277491,HIGH RISK,2791.4484151526863,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0376-YMCJC,0.7537687529126154,HIGH RISK,3403.8388480865865,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7410-YTJIK,0.7980137254465229,HIGH RISK,2834.653875144956,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9927-DSWDF,0.6578975798381868,HIGH RISK,3929.818361035949,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6681-ZSEXG,0.09654181193387315,LOW RISK,3332.0,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5702-KVQRD,0.09134390432690177,LOW RISK,5861.05,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8711-LOBKY,0.020904020390386566,LOW RISK,1171.15,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9692-TUSXH,0.795975489618804,HIGH RISK,3608.595158484731,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4012-YCFAI,0.032353501533164526,LOW RISK,3681.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8455-HIRAQ,0.5087750879161802,MEDIUM RISK,1669.984953614225,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7853-WNZSY,0.42863994921373655,MEDIUM RISK,742.0068129107074,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0390-DCFDQ,0.8701010793669323,HIGH RISK,2646.804049091612,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6421-SZVEM,0.287860488340777,LOW RISK,3112.671617703904,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3094-JOJAI,0.598939857790176,MEDIUM RISK,2785.8129203710864,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+4873-ILOLJ,0.7629059664739156,HIGH RISK,3394.44635678392,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8181-YHCMF,0.022213448074773223,LOW RISK,4100.4,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3324-OIRTO,0.28428459547645313,LOW RISK,7430.150000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9135-HSWOC,0.023678995419531636,LOW RISK,1260.8,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2272-WUSPA,0.13606525361532606,LOW RISK,7974.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4627-MIHJH,0.24083299714514905,LOW RISK,7607.25,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3896-RCYYE,0.2525976506627352,LOW RISK,3577.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6729-GDNGC,0.6214283208782326,HIGH RISK,3031.896192500966,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9945-PSVIP,0.05020700627505227,LOW RISK,702.5583494395052,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4137-JOPHL,0.20620886976290798,LOW RISK,4485.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2720-FVBQP,0.5977249640413463,MEDIUM RISK,1839.0497970622343,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7854-EKTJL,0.36634924645846906,MEDIUM RISK,736.3713181291071,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+1133-KXCGE,0.04111260334870336,LOW RISK,755.1563007344415,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6048-QBXKL,0.6511486739932217,HIGH RISK,2124.5815326633165,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6338-AVWCY,0.7578489915006983,HIGH RISK,1508.4341032083494,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0013-MHZWF,0.5172454079226567,MEDIUM RISK,2607.35558562041,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9804-ICWBG,0.8959275774380019,HIGH RISK,2626.140568225744,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2368-GAKKQ,0.12608856957263512,LOW RISK,7955.5,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4829-AUOAX,0.6189681982423286,HIGH RISK,4418.3,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+7876-BEUTG,0.5381472553471255,MEDIUM RISK,1833.4143022806336,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6349-JDHQP,0.04041424330143015,LOW RISK,1052.0500000000002,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3063-QFSZL,0.796102661712473,HIGH RISK,2081.3760726710475,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9142-XMYJH,0.18972950475199074,LOW RISK,726.9788268264399,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2609-IAICY,0.9092419991894987,HIGH RISK,2898.5228160030924,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8626-PTQGE,0.04008589907660897,LOW RISK,4143.45,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0230-UBYPQ,0.12045811859390457,LOW RISK,2274.3,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+6814-ZPWFQ,0.14330576726202598,LOW RISK,1275.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5921-NGYRH,0.4195299676871774,MEDIUM RISK,4707.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7803-XOCCZ,0.32417823919434285,MEDIUM RISK,4370.599999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1459-QNFQT,0.05026237559061739,LOW RISK,4165.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3948-FVVRP,0.39696292961638563,MEDIUM RISK,2058.8340935446463,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0923-PNFUB,0.7981551153549696,HIGH RISK,3146.4845863935057,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4654-ULTTN,0.08212727771523323,LOW RISK,5236.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5628-FCGYG,0.7834710581230023,HIGH RISK,3159.63407421724,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0506-LVNGN,0.7724499514678618,HIGH RISK,2838.410871666022,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4329-YPDDQ,0.590355438203512,MEDIUM RISK,4065.070235794357,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9866-OCCKE,0.146846134344802,LOW RISK,7902.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0794-YVSGE,0.009635901101082981,LOW RISK,1461.6,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4342-HENTK,0.8628278596541709,HIGH RISK,2654.3180421337456,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5934-TSSAU,0.5638613186735514,MEDIUM RISK,2829.018380363355,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9986-BONCE,0.3292211966148998,MEDIUM RISK,787.0907711635098,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5301-GAUUY,0.6249881785861238,HIGH RISK,3018.746704677232,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0725-CXOTM,0.23844906964700666,LOW RISK,3368.147381136452,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2843-CQMEG,0.40858053212870876,MEDIUM RISK,1867.227270970236,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5600-PDUJF,0.5584840418114544,MEDIUM RISK,1859.713277928102,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4500-HKANN,0.10337517351806921,LOW RISK,2242.9269230769232,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1862-QRWPE,0.02481449485048309,LOW RISK,991.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2155-AMQRX,0.31035794087094115,MEDIUM RISK,2062.591090065713,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0823-HSCDJ,0.6157588531864032,HIGH RISK,2555.8,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4090-KPJIP,0.8835633777991049,HIGH RISK,2815.8688925396214,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2737-YNGYW,0.8465349907559693,HIGH RISK,3026.260697719366,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5619-XZZKR,0.039779172272193575,LOW RISK,749.5208059528411,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6047-YHPVI,0.8408241537486242,HIGH RISK,2618.6265751836104,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8375-DKEBR,0.895610601635314,HIGH RISK,2614.869578662543,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7729-XBTWX,0.025476436156518158,LOW RISK,1303.5,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4983-CLMLV,0.5303423155568417,MEDIUM RISK,5340.400000000001,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9227-LUNBG,0.7371213332964643,HIGH RISK,924.2211441824508,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2758-RNWXS,0.3358257846376128,MEDIUM RISK,3351.2408967916504,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7055-HNEOJ,0.5293739220927963,MEDIUM RISK,2096.404058755315,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+7134-MJPDY,0.4417054920197249,MEDIUM RISK,6788.099999999999,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4560-WQAQW,0.13516345565714802,LOW RISK,4053.3,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8532-UEFWH,0.022867278768247772,LOW RISK,1339.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8541-QVFKM,0.860568715695796,HIGH RISK,2761.392442984152,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7129-ACFOG,0.6165718294294958,HIGH RISK,2021.2641283339772,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2495-INZWQ,0.8084597921981375,HIGH RISK,1673.7419501352915,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0263-FJTQO,0.10279095701328256,LOW RISK,3525.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0181-RITDD,0.17245866771435225,LOW RISK,6705.3,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+8241-JUIQO,0.09814676665852674,LOW RISK,1186.45,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0913-XWSCN,0.5250325420772308,MEDIUM RISK,4702.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2159-TURXX,0.26629750372949795,LOW RISK,753.277802473908,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6461-PPAXN,0.10024186682478643,LOW RISK,2064.4695883262466,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1452-KIOVK,0.6781227303153518,HIGH RISK,3347.4839002705835,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1139-WUOAH,0.09597679121659898,LOW RISK,3040.9500000000003,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3207-OYBWH,0.5671872943561221,MEDIUM RISK,5429.25,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8347-GDTMP,0.014978685438646958,LOW RISK,1244.8,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9909-DFRJA,0.30579461218646264,MEDIUM RISK,3601.081165442597,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6383-ZTSIW,0.32633142327130576,MEDIUM RISK,3864.9,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5438-QMDDL,0.41142465210408263,MEDIUM RISK,2246.6839195979896,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8914-RBTSB,0.6313082146592499,HIGH RISK,3524.0627367607262,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6164-HXUGH,0.2136632785823808,LOW RISK,745.7638094317742,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6900-RBKER,0.2357435568094614,LOW RISK,4651.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1492-QGCLU,0.2731231273214592,LOW RISK,4542.1,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6664-FPDAC,0.5046578123552679,MEDIUM RISK,6269.2,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1088-AUUZZ,0.050739086435451865,LOW RISK,4247.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+6651-AZVTJ,0.7369318854502906,HIGH RISK,4890.2,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+8219-VYBVI,0.0253720577589718,LOW RISK,975.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0310-MVLET,0.6280284772877808,HIGH RISK,6048.150000000001,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+7233-IOQNP,0.2939722149342032,LOW RISK,1462.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7311-MQJCH,0.08645578634558511,LOW RISK,734.4928198685736,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9256-JTBNZ,0.32509277711575313,MEDIUM RISK,762.6702937765751,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8713-IGZSO,0.22443183620601595,LOW RISK,933.613635485118,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6821-BUXUX,0.7656541150329871,HIGH RISK,3631.137137611133,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+9114-DPSIA,0.023493559497951892,LOW RISK,5832.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4501-UYKBC,0.24286168924170115,LOW RISK,3178.6,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2798-NYLMZ,0.3225744408313363,MEDIUM RISK,7707.05,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6711-VTNRE,0.6235182644591823,HIGH RISK,3289.250454194047,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5966-EMAZU,0.406569522972605,MEDIUM RISK,6944.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3627-FHKBK,0.6680218474640978,HIGH RISK,2829.018380363355,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+7861-UVUFT,0.7686891414937779,HIGH RISK,3167.1480672593734,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+9824-QCJPK,0.022070326948043763,LOW RISK,751.3993042133745,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7816-VGHTO,0.1454447246521307,LOW RISK,1523.4620892926168,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3794-NFNCH,0.3441102342474589,MEDIUM RISK,1878.498260533436,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3877-JRJIP,0.701553461630795,HIGH RISK,2248.5624178585235,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5228-EXCET,0.8039626304096464,HIGH RISK,3037.5316872825665,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6248-BSHKG,0.0297202986208854,LOW RISK,1244.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8915-NNTRC,0.08130584872147152,LOW RISK,7754.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3470-OBUET,0.06806618786589037,LOW RISK,4958.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+3229-USWAR,0.2101058678978661,LOW RISK,3003.7187185929647,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+1927-QEWMY,0.010638746806504657,LOW RISK,1476.0,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6374-AFWOX,0.05800833528499881,LOW RISK,3019.9,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+7912-SYRQT,0.8411590332430735,HIGH RISK,2821.504387321221,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2070-FNEXE,0.6352225325334259,HIGH RISK,2872.2238403556244,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5803-NQJZO,0.042090244325867845,LOW RISK,4881.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5651-YLPRD,0.6659952162708668,HIGH RISK,3234.774004638577,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1271-UODNO,0.15642483685904665,LOW RISK,2100.15,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5014-WUQMG,0.3206141520564523,MEDIUM RISK,4516.7,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5889-JTMUL,0.6823149001225295,HIGH RISK,4752.5,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+0788-DXBFY,0.07666891464243913,LOW RISK,1133.9,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+2669-QVCRG,0.5455740639169475,MEDIUM RISK,3333.3,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+6630-UJZMY,0.8933691878041025,HIGH RISK,3127.6996037881718,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+5061-PBXFW,0.21364930124075684,LOW RISK,2306.79586393506,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+2700-LUEVA,0.3338539764462594,MEDIUM RISK,779.576778121376,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3865-ZFZIB,0.026857715624321217,LOW RISK,738.2498163896404,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0471-ARVMX,0.45885822339018717,MEDIUM RISK,6500.7,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8985-OOPOS,0.35012712069362506,MEDIUM RISK,2783.9344221105525,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0719-SYFRB,0.41347052535633283,MEDIUM RISK,2316.188355237727,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+0447-BEMNG,0.29382629738888244,LOW RISK,2174.4,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5630-AHZIL,0.434483061808966,MEDIUM RISK,2423.262756088133,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2190-BCXEC,0.5113263218810885,MEDIUM RISK,3154.0,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+1559-DTODC,0.5026288768734141,MEDIUM RISK,944.8846250483184,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3244-DCJWY,0.8916330959936761,HIGH RISK,2639.290056049478,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3967-VQOGC,0.04779907135412022,LOW RISK,1668.3,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+0265-PSUAE,0.6655726789648034,HIGH RISK,3783.295496714341,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1622-HSHSF,0.6445917839114089,HIGH RISK,734.4928198685736,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9867-XOBQA,0.05864003106311141,LOW RISK,1996.8436509470428,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6773-LQTVT,0.4143965847264592,MEDIUM RISK,1339.36925976034,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+4332-MUOEZ,0.32901643980382345,MEDIUM RISK,3542.847719366061,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0023-XUOPT,0.7722522448792403,HIGH RISK,3535.333726323927,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6543-CPZMK,0.582117328093437,MEDIUM RISK,1125.2204580595285,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6418-HNFED,0.052212584746438084,LOW RISK,4245.75,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+1036-GUDCL,0.19282741459859745,LOW RISK,4743.0,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+4818-QIUFN,0.6999255843390224,HIGH RISK,2973.6627464244298,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+0778-NELLA,0.5840978814595976,MEDIUM RISK,1303.677792810205,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+7495-OOKFY,0.8110851660527847,HIGH RISK,3030.017694240433,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+4737-HOBAX,0.07267136461999786,LOW RISK,5027.4,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+7919-ZODZZ,0.38055439758320203,MEDIUM RISK,2475.860707383069,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+2988-PLAHS,0.5479626247119518,MEDIUM RISK,2628.0190664862776,MEDIUM LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+9067-SQTNS,0.03528824902910172,LOW RISK,906.4,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+6483-OATDN,0.43543213164475086,MEDIUM RISK,1927.3392153073053,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5469-CTCWN,0.33795862761928014,MEDIUM RISK,6466.0,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+3524-WQDSG,0.6733144579607137,HIGH RISK,4269.9,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+6968-URWQU,0.2891828532551667,LOW RISK,2423.05,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+8601-QACRS,0.6661066658982802,HIGH RISK,1901.0402396598377,LOW LTV,MEDIUM,Monitor customer and consider a suitable service or pricing offer.
+8690-UPCZI,0.12735822344325778,LOW RISK,2594.2060977966757,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+5331-RGMTT,0.6531202994560249,HIGH RISK,5348.7,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+1357-BIJKI,0.49096030144912034,MEDIUM RISK,4912.5,HIGH LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+2088-IEBAU,0.07666708715132045,LOW RISK,5994.200000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+0679-IDSTG,0.8624690095158057,HIGH RISK,2601.720090838809,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+6519-ZHPXP,0.10779364633095831,LOW RISK,7797.599999999999,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+2101-RANCD,0.6757780552358353,HIGH RISK,4020.5,HIGH LTV,CRITICAL,Immediate retention intervention. Offer personalized incentive and proactive customer support.
+4029-HPFVY,0.8153639952385953,HIGH RISK,2641.168554310012,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+1015-OWJKI,0.4719396187198447,MEDIUM RISK,715.7078372632393,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+8314-HTWVE,0.04489816633939595,LOW RISK,745.7638094317742,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5357-TZHPP,0.8056809798200313,HIGH RISK,3170.9050637804407,MEDIUM LTV,HIGH,Prioritize customer for retention campaign and consider a targeted offer.
+8727-XDPUD,0.21441184122483148,LOW RISK,1345.0047545419402,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+9073-ZZIAY,0.04167824044173397,LOW RISK,5338.2,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+5181-OABFK,0.05808611857145399,LOW RISK,3432.8,MEDIUM LTV,LOW,Continue regular engagement and monitor customer behavior.
+3812-LRZIR,0.04915091382997369,LOW RISK,920.4641476613838,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+5204-HMGYF,0.20289841190776536,LOW RISK,4272.8,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.
+9950-MTGYX,0.023309427545934885,LOW RISK,762.6702937765751,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3675-EQOZA,0.2612093626404759,LOW RISK,775.8197816003092,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3646-ITDGM,0.05910299324558827,LOW RISK,1103.2,LOW LTV,LOW,Continue regular engagement and monitor customer behavior.
+3913-FCUUW,0.04184968261667045,LOW RISK,5072.400000000001,HIGH LTV,MAINTAIN,Maintain relationship and provide good customer experience.

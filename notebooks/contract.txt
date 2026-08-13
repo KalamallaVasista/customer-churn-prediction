@@ -1,0 +1,46 @@
+EDA Insight 1:
+
+Contract type has a strong relationship with customer churn.
+
+Month-to-month customers have the highest observed churn rate
+(42.71%), while two-year customers have the lowest (2.83%).
+
+
+EDA Insight 2:
+
+Tenure has a strong relationship with customer churn.
+
+Customers with 0–12 months of tenure have a 47.44% churn
+rate, compared with only 9.51% for customers with 49–72
+months of tenure.
+
+EDA Insight 3:
+
+Monthly charges are associated with customer churn.
+
+The Low charge group has an 11.24% churn rate,
+while the Medium-High group has the highest rate at 37.51%.
+The High group has a slightly lower churn rate of 32.88%.
+
+EDA Insight 4:
+
+Internet service is strongly associated with customer churn.
+
+Fiber-optic customers have the highest observed churn rate
+at 41.89%, compared with 18.96% for DSL customers and
+7.40% for customers without internet service.
+
+EDA Insight 5:
+
+Payment method is strongly associated with customer churn.
+
+Electronic-check customers have the highest observed churn
+rate at 45.29%, while credit-card automatic customers have
+the lowest at 15.24%.
+
+EDA Insight 6:
+
+Tech Support is strongly associated with customer churn.
+
+Customers without Tech Support have a 41.64% churn rate,
+while customers with Tech Support have a 15.17% churn rate.
